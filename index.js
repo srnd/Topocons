@@ -10,6 +10,6 @@ Object.defineProperty(exports, "default", {
   }
 });
 
-var _Icon = _interopRequireDefault(require("./dist"));
+var _Icon = _interopRequireDefault(require("./icons"));
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "default": obj }; }

@@ -4,8 +4,8 @@
   "description": "SRND icons and emoji for React projects.",
   "main": "index.js",
   "scripts": {
-    "clean": "rm -rf stage1/* dist/*",
-    "build": "\"$npm_execpath\" run clean; git submodule update --recursive --remote; svgr src/Icon -d stage1; create-index stage1; babel stage1 -d dist"
+    "clean": "rm -rf stage1/* icons/*",
+    "build": "\"$npm_execpath\" run clean; git submodule update --recursive --remote; svgr src/Icon -d stage1; create-index stage1; babel stage1 -d icons"
   },
   "author": "Tyler Menezes",
   "license": "UNLICENSED",
