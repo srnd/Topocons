@@ -1,7 +1,7 @@
 {
   "name": "@srnd/topocons",
   "version": "1.0.0",
-  "description": "SRND icons and emoji for React projects.",
+  "description": "SRND icons for React projects.",
   "main": "index.js",
   "scripts": {
     "clean": "rm -rf stage1/* icons/*",
