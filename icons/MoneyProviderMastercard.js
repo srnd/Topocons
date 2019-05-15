@@ -13,8 +13,13 @@ function _extends() { _extends = Object.assign || function (target) { for (var i
 
 var SvgMoneyProviderMastercard = function SvgMoneyProviderMastercard(props) {
   return _react["default"].createElement("svg", _extends({
-    width: 30,
-    height: 30
+    viewBox: "0 0 30 30",
+    height: "1em",
+    width: "auto",
+    preserveAspectRatio: "xMinYMin",
+    style: {
+      fill: "currentColor"
+    }
   }, props), _react["default"].createElement("path", {
     d: "M9.5 5.5C4.265 5.5 0 9.765 0 15s4.265 9.5 9.5 9.5c2.344 0 4.489-.86 6.148-2.275A8.946 8.946 0 0 0 21 24a9 9 0 0 0 9-9 9 9 0 0 0-9-9 8.946 8.946 0 0 0-5.352 1.775A9.448 9.448 0 0 0 9.5 5.5zm0 2c1.774 0 3.398.614 4.68 1.637A8.957 8.957 0 0 0 12 15c0 2.242.824 4.288 2.18 5.863A7.471 7.471 0 0 1 9.5 22.5 7.486 7.486 0 0 1 2 15c0-4.153 3.347-7.5 7.5-7.5z"
   }));

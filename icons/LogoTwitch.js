@@ -13,8 +13,13 @@ function _extends() { _extends = Object.assign || function (target) { for (var i
 
 var SvgLogoTwitch = function SvgLogoTwitch(props) {
   return _react["default"].createElement("svg", _extends({
-    width: 30,
-    height: 30
+    viewBox: "0 0 30 30",
+    height: "1em",
+    width: "auto",
+    preserveAspectRatio: "xMinYMin",
+    style: {
+      fill: "currentColor"
+    }
   }, props), _react["default"].createElement("path", {
     d: "M6 4L4 8v16h5v3h4l3-3h4l6-6V4H6zm2 2h16v11l-3 3h-6l-3 3v-3H8V6zm5 3v7h2V9h-2zm4 0v7h2V9h-2z"
   }));

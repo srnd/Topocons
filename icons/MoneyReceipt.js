@@ -13,8 +13,13 @@ function _extends() { _extends = Object.assign || function (target) { for (var i
 
 var SvgMoneyReceipt = function SvgMoneyReceipt(props) {
   return _react["default"].createElement("svg", _extends({
-    width: 30,
-    height: 30
+    viewBox: "0 0 30 30",
+    height: "1em",
+    width: "auto",
+    preserveAspectRatio: "xMinYMin",
+    style: {
+      fill: "currentColor"
+    }
   }, props), _react["default"].createElement("path", {
     d: "M23 3l-2-1-2 1-2-1-2 1-2-1-2 1-2-1-2 1-2-1v24a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V2l-2 1zm-7 20h-6a1 1 0 0 1 0-2h6a1 1 0 0 1 0 2zm-7-5a1 1 0 0 1 1-1h4a1 1 0 0 1 0 2h-4a1 1 0 0 1-1-1zm7-3h-6a1 1 0 0 1 0-2h6a1 1 0 0 1 0 2zm4 8a1 1 0 1 1 0-2 1 1 0 0 1 0 2zm0-4a1 1 0 1 1 0-2 1 1 0 0 1 0 2zm0-4a1 1 0 1 1 0-2 1 1 0 0 1 0 2zm0-6H10a1 1 0 0 1 0-2h10a1 1 0 0 1 0 2z"
   }));

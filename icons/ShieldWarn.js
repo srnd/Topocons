@@ -13,8 +13,13 @@ function _extends() { _extends = Object.assign || function (target) { for (var i
 
 var SvgShieldWarn = function SvgShieldWarn(props) {
   return _react["default"].createElement("svg", _extends({
-    width: 30,
-    height: 30
+    viewBox: "0 0 30 30",
+    height: "1em",
+    width: "auto",
+    preserveAspectRatio: "xMinYMin",
+    style: {
+      fill: "currentColor"
+    }
   }, props), _react["default"].createElement("path", {
     d: "M15 3c-4.602 0-9.389 1.037-9.389 1.037l-.004.004A2 2 0 0 0 4 6v6c0 10.398 10.021 14.744 10.021 14.744A2 2 0 0 0 15 27a2 2 0 0 0 .975-.256h.004S26 22.398 26 12V6a2 2 0 0 0-1.611-1.963S19.602 3 15 3zm-1.213 4h2.426l-.201 9h-2.024l-.2-9zm1.217 11.81c.822 0 1.314.443 1.314 1.198 0 .74-.492 1.181-1.314 1.181-.828 0-1.324-.44-1.324-1.181 0-.755.495-1.197 1.324-1.197z"
   }));

@@ -765,6 +765,12 @@ Object.defineProperty(exports, "MessageInfo", {
     return _MessageInfo["default"];
   }
 });
+Object.defineProperty(exports, "MessageWarn", {
+  enumerable: true,
+  get: function get() {
+    return _MessageWarn["default"];
+  }
+});
 Object.defineProperty(exports, "MoneyCard", {
   enumerable: true,
   get: function get() {
@@ -1487,6 +1493,8 @@ var _MessageHelp = _interopRequireDefault(require("./MessageHelp.js"));
 var _MessageImportant = _interopRequireDefault(require("./MessageImportant.js"));
 
 var _MessageInfo = _interopRequireDefault(require("./MessageInfo.js"));
+
+var _MessageWarn = _interopRequireDefault(require("./MessageWarn.js"));
 
 var _MoneyCard = _interopRequireDefault(require("./MoneyCard.js"));
 

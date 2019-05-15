@@ -13,8 +13,13 @@ function _extends() { _extends = Object.assign || function (target) { for (var i
 
 var SvgEmail = function SvgEmail(props) {
   return _react["default"].createElement("svg", _extends({
-    width: 30,
-    height: 30
+    viewBox: "0 0 30 30",
+    height: "1em",
+    width: "auto",
+    preserveAspectRatio: "xMinYMin",
+    style: {
+      fill: "currentColor"
+    }
   }, props), _react["default"].createElement("path", {
     d: "M2.537 6l11.274 10.521a1.746 1.746 0 0 0 2.378 0L27.463 6H2.537zM1 7.3v15.286l7.906-7.906L1 7.3zm28 0l-7.906 7.38L29 22.586V7.3zm-18.633 8.745L2.414 24h25.172l-7.955-7.955-2.076 1.937a3.74 3.74 0 0 1-2.557 1.004 3.735 3.735 0 0 1-2.555-1.004l-2.076-1.937z"
   }));
