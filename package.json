@@ -9,7 +9,6 @@
   },
   "author": "Tyler Menezes",
   "license": "UNLICENSED",
-  "private": true,
   "devDependencies": {
     "@babel/cli": "^7.4.4",
     "@babel/core": "^7.4.4",
