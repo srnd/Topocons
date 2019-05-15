@@ -2,13 +2,10 @@
   "name": "@srnd/topocons",
   "version": "1.0.0",
   "description": "SRND icons and emoji for React projects.",
-  "main": "dist/index.js",
+  "main": "index.js",
   "scripts": {
-    "clean": "rm -rf stage1/Icon stage1/Emoji dist/Icon dist/Emoji dist/index.js; mkdir dist/Emoji; mkdir dist/Icon;",
-    "build:icons": "rm -rf stage1/Icon dist/Icon; svgr src/Icon -d stage1/Icon; create-index stage1/Icon; babel stage1/Icon -d dist/Icon",
-    "build:emoji": "rm -rf stage1/Emoji dist/Emoji; svgr src/Emoji -d stage1/Emoji; create-index stage1/Emoji -r; create-index stage1/Emoji; babel stage1/Emoji -d dist/Emoji",
-    "build:index": "rm dist/index.js; create-index dist; babel dist/index.js -o dist/index.js",
-    "build": "\"$npm_execpath\" run build:icons; \"$npm_execpath\" run build:emoji; \"$npm_execpath\" run build:index"
+    "clean": "rm -rf stage1/* dist/*",
+    "build": "\"$npm_execpath\" run clean; svgr src/Icon -d stage1; create-index stage1; babel stage1 -d dist"
   },
   "author": "Tyler Menezes",
   "license": "UNLICENSED",
