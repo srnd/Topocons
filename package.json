@@ -1,11 +1,11 @@
 {
   "name": "@srnd/topocons",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "SRND icons for React projects.",
   "main": "index.js",
   "scripts": {
     "clean": "rm -rf stage1/* icons/*",
-    "build": "\"$npm_execpath\" run clean; git submodule update --recursive --remote; svgr src/Icon -d stage1; find stage1 -type f -name \"*.js\" -print0 | xargs -0 sed -i 's/width={30} height={30}/viewBox=\"0 0 30 30\" height=\"1em\" width=\"auto\" preserveAspectRatio=\"xMinYMin\" style={{fill: \"currentColor\"}}/'; create-index stage1; babel stage1 -d icons"
+    "build": "\"$npm_execpath\" run clean; git submodule update --recursive --remote; svgr src/Icon -d stage1; find stage1 -type f -name \"*.js\" -print0 | xargs -0 sed -i 's/width={30} height={30}/viewBox=\"0 0 30 30\" height=\"1em\" width=\"1em\" preserveAspectRatio=\"xMinYMin\" style={{fill: \"currentColor\"}}/'; create-index stage1; babel stage1 -d icons"
   },
   "author": "Tyler Menezes",
   "license": "UNLICENSED",

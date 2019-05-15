@@ -15,7 +15,7 @@ var SvgLogoSocialProducthunt = function SvgLogoSocialProducthunt(props) {
   return _react["default"].createElement("svg", _extends({
     viewBox: "0 0 30 30",
     height: "1em",
-    width: "auto",
+    width: "1em",
     preserveAspectRatio: "xMinYMin",
     style: {
       fill: "currentColor"
