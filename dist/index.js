@@ -519,12 +519,6 @@ Object.defineProperty(exports, "I18N", {
     return _I18N["default"];
   }
 });
-Object.defineProperty(exports, "Icons8Ssh", {
-  enumerable: true,
-  get: function get() {
-    return _Icons8Ssh["default"];
-  }
-});
 Object.defineProperty(exports, "Illuminati", {
   enumerable: true,
   get: function get() {
@@ -993,6 +987,12 @@ Object.defineProperty(exports, "Sport", {
     return _Sport["default"];
   }
 });
+Object.defineProperty(exports, "Ssh", {
+  enumerable: true,
+  get: function get() {
+    return _Ssh["default"];
+  }
+});
 Object.defineProperty(exports, "StoreDrive", {
   enumerable: true,
   get: function get() {
@@ -1406,8 +1406,6 @@ var _Hide = _interopRequireDefault(require("./Hide.js"));
 
 var _I18N = _interopRequireDefault(require("./I18N.js"));
 
-var _Icons8Ssh = _interopRequireDefault(require("./Icons8Ssh.js"));
-
 var _Illuminati = _interopRequireDefault(require("./Illuminati.js"));
 
 var _Image = _interopRequireDefault(require("./Image.js"));
@@ -1563,6 +1561,8 @@ var _ShieldWarn = _interopRequireDefault(require("./ShieldWarn.js"));
 var _Spam = _interopRequireDefault(require("./Spam.js"));
 
 var _Sport = _interopRequireDefault(require("./Sport.js"));
+
+var _Ssh = _interopRequireDefault(require("./Ssh.js"));
 
 var _StoreDrive = _interopRequireDefault(require("./StoreDrive.js"));
 
