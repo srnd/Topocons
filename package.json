@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "clean": "rm -rf stage1/* dist/*",
-    "build": "\"$npm_execpath\" run clean; svgr src/Icon -d stage1; create-index stage1; babel stage1 -d dist"
+    "build": "\"$npm_execpath\" run clean; git submodule update --recursive --remote; svgr src/Icon -d stage1; create-index stage1; babel stage1 -d dist"
   },
   "author": "Tyler Menezes",
   "license": "UNLICENSED",

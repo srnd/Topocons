@@ -387,16 +387,16 @@ Object.defineProperty(exports, "FoodNoNuts", {
     return _FoodNoNuts["default"];
   }
 });
+Object.defineProperty(exports, "FoodNoPork", {
+  enumerable: true,
+  get: function get() {
+    return _FoodNoPork["default"];
+  }
+});
 Object.defineProperty(exports, "FoodNoSugar", {
   enumerable: true,
   get: function get() {
     return _FoodNoSugar["default"];
-  }
-});
-Object.defineProperty(exports, "FoodPorkNo", {
-  enumerable: true,
-  get: function get() {
-    return _FoodPorkNo["default"];
   }
 });
 Object.defineProperty(exports, "FoodSnacks", {
@@ -1362,9 +1362,9 @@ var _FoodNoGluten = _interopRequireDefault(require("./FoodNoGluten.js"));
 
 var _FoodNoNuts = _interopRequireDefault(require("./FoodNoNuts.js"));
 
-var _FoodNoSugar = _interopRequireDefault(require("./FoodNoSugar.js"));
+var _FoodNoPork = _interopRequireDefault(require("./FoodNoPork.js"));
 
-var _FoodPorkNo = _interopRequireDefault(require("./FoodPorkNo.js"));
+var _FoodNoSugar = _interopRequireDefault(require("./FoodNoSugar.js"));
 
 var _FoodSnacks = _interopRequireDefault(require("./FoodSnacks.js"));
 
