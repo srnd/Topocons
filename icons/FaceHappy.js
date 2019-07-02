@@ -13,30 +13,10 @@ function _extends() { _extends = Object.assign || function (target) { for (var i
 
 var SvgFaceHappy = function SvgFaceHappy(props) {
   return _react["default"].createElement("svg", _extends({
-    viewBox: "0 0 30 30",
-    height: "1em",
-    width: "1em",
-    preserveAspectRatio: "xMinYMin",
-    style: {
-      fill: "currentColor"
-    }
+    width: 24,
+    height: 24
   }, props), _react["default"].createElement("path", {
-    style: {
-      lineHeight: "normal",
-      textIndent: 0,
-      textAlign: "start",
-      textDecorationLine: "none",
-      textDecorationStyle: "solid",
-      textDecorationColor: "#000",
-      textTransform: "none",
-      blockProgression: "tb",
-      isolation: "auto",
-      mixBlendMode: "normal"
-    },
-    d: "M15 3C8.384 3 3 8.384 3 15s5.384 12 12 12 12-5.384 12-12S21.616 3 15 3zm0 2c5.535 0 10 4.465 10 10s-4.465 10-10 10S5 20.535 5 15 9.465 5 15 5zm-4.5 8A1.5 1.5 0 0 0 9 14.5a1.5 1.5 0 0 0 1.5 1.5 1.5 1.5 0 0 0 1.5-1.5 1.5 1.5 0 0 0-1.5-1.5zm9 0a1.5 1.5 0 0 0-1.5 1.5 1.5 1.5 0 0 0 1.5 1.5 1.5 1.5 0 0 0 1.5-1.5 1.5 1.5 0 0 0-1.5-1.5zm-7.506 5.992a1 1 0 0 0-.52 1.817C12.28 21.393 13.485 22 15 22c1.517 0 2.722-.606 3.525-1.191a1 1 0 1 0-1.177-1.618c-.57.415-1.365.809-2.348.809-.983 0-1.778-.393-2.35-.809a1 1 0 0 0-.556-.199 1 1 0 0 0-.1 0z",
-    fontWeight: 400,
-    fontFamily: "sans-serif",
-    overflow: "visible"
+    d: "M12 23C5.925 23 1 18.075 1 12S5.925 1 12 1s11 4.925 11 11-4.925 11-11 11zm0-2a9 9 0 1 0 0-18 9 9 0 0 0 0 18zm-4.243-4.757a1 1 0 0 1 1.415-1.415 4 4 0 0 0 5.656 0 1 1 0 0 1 1.415 1.415 6 6 0 0 1-8.486 0zM8.5 12a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm7 0a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3z"
   }));
 };
 

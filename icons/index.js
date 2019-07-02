@@ -3,10 +3,10 @@
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-Object.defineProperty(exports, "A11Y", {
+Object.defineProperty(exports, "Agreement", {
   enumerable: true,
   get: function get() {
-    return _A11Y["default"];
+    return _Agreement["default"];
   }
 });
 Object.defineProperty(exports, "Announcement", {
@@ -15,46 +15,16 @@ Object.defineProperty(exports, "Announcement", {
     return _Announcement["default"];
   }
 });
-Object.defineProperty(exports, "Api", {
+Object.defineProperty(exports, "Backpack", {
   enumerable: true,
   get: function get() {
-    return _Api["default"];
+    return _Backpack["default"];
   }
 });
-Object.defineProperty(exports, "AppSwitcher", {
+Object.defineProperty(exports, "BehavioralTargeting", {
   enumerable: true,
   get: function get() {
-    return _AppSwitcher["default"];
-  }
-});
-Object.defineProperty(exports, "ArrowBack", {
-  enumerable: true,
-  get: function get() {
-    return _ArrowBack["default"];
-  }
-});
-Object.defineProperty(exports, "ArrowForward", {
-  enumerable: true,
-  get: function get() {
-    return _ArrowForward["default"];
-  }
-});
-Object.defineProperty(exports, "ArrowForwardDouble", {
-  enumerable: true,
-  get: function get() {
-    return _ArrowForwardDouble["default"];
-  }
-});
-Object.defineProperty(exports, "Barcode", {
-  enumerable: true,
-  get: function get() {
-    return _Barcode["default"];
-  }
-});
-Object.defineProperty(exports, "Barcode2D", {
-  enumerable: true,
-  get: function get() {
-    return _Barcode2D["default"];
+    return _BehavioralTargeting["default"];
   }
 });
 Object.defineProperty(exports, "Bolt", {
@@ -63,262 +33,136 @@ Object.defineProperty(exports, "Bolt", {
     return _Bolt["default"];
   }
 });
-Object.defineProperty(exports, "Book", {
+Object.defineProperty(exports, "Brain", {
   enumerable: true,
   get: function get() {
-    return _Book["default"];
+    return _Brain["default"];
   }
 });
-Object.defineProperty(exports, "BookOpen", {
+Object.defineProperty(exports, "BuildingHome", {
   enumerable: true,
   get: function get() {
-    return _BookOpen["default"];
+    return _BuildingHome["default"];
   }
 });
-Object.defineProperty(exports, "Bot", {
+Object.defineProperty(exports, "BuildingOffice", {
   enumerable: true,
   get: function get() {
-    return _Bot["default"];
+    return _BuildingOffice["default"];
   }
 });
-Object.defineProperty(exports, "Broadcast", {
+Object.defineProperty(exports, "BuildingSchool", {
   enumerable: true,
   get: function get() {
-    return _Broadcast["default"];
+    return _BuildingSchool["default"];
   }
 });
-Object.defineProperty(exports, "BroadcastOff", {
+Object.defineProperty(exports, "Calendar", {
   enumerable: true,
   get: function get() {
-    return _BroadcastOff["default"];
+    return _Calendar["default"];
   }
 });
-Object.defineProperty(exports, "BrowserChrome", {
+Object.defineProperty(exports, "Camera", {
   enumerable: true,
   get: function get() {
-    return _BrowserChrome["default"];
+    return _Camera["default"];
   }
 });
-Object.defineProperty(exports, "BrowserEdge", {
+Object.defineProperty(exports, "Camping", {
   enumerable: true,
   get: function get() {
-    return _BrowserEdge["default"];
+    return _Camping["default"];
   }
 });
-Object.defineProperty(exports, "BrowserFirefox", {
+Object.defineProperty(exports, "Certificate", {
   enumerable: true,
   get: function get() {
-    return _BrowserFirefox["default"];
+    return _Certificate["default"];
   }
 });
-Object.defineProperty(exports, "BrowserIe", {
+Object.defineProperty(exports, "Certified", {
   enumerable: true,
   get: function get() {
-    return _BrowserIe["default"];
+    return _Certified["default"];
   }
 });
-Object.defineProperty(exports, "BrowserSafari", {
+Object.defineProperty(exports, "Compass", {
   enumerable: true,
   get: function get() {
-    return _BrowserSafari["default"];
+    return _Compass["default"];
   }
 });
-Object.defineProperty(exports, "CableEthOff", {
+Object.defineProperty(exports, "Day", {
   enumerable: true,
   get: function get() {
-    return _CableEthOff["default"];
+    return _Day["default"];
   }
 });
-Object.defineProperty(exports, "CableEthOn", {
+Object.defineProperty(exports, "DeviceConsole", {
   enumerable: true,
   get: function get() {
-    return _CableEthOn["default"];
+    return _DeviceConsole["default"];
   }
 });
-Object.defineProperty(exports, "CableEthPoe", {
+Object.defineProperty(exports, "DeviceDesktop", {
   enumerable: true,
   get: function get() {
-    return _CableEthPoe["default"];
+    return _DeviceDesktop["default"];
   }
 });
-Object.defineProperty(exports, "CableHdmi", {
+Object.defineProperty(exports, "DeviceLaptop", {
   enumerable: true,
   get: function get() {
-    return _CableHdmi["default"];
+    return _DeviceLaptop["default"];
   }
 });
-Object.defineProperty(exports, "CableThunderbolt", {
+Object.defineProperty(exports, "DevicePhone", {
   enumerable: true,
   get: function get() {
-    return _CableThunderbolt["default"];
+    return _DevicePhone["default"];
   }
 });
-Object.defineProperty(exports, "CableUsb", {
+Object.defineProperty(exports, "DeviceTablet", {
   enumerable: true,
   get: function get() {
-    return _CableUsb["default"];
+    return _DeviceTablet["default"];
   }
 });
-Object.defineProperty(exports, "CableUsbC", {
+Object.defineProperty(exports, "DeviceTv", {
   enumerable: true,
   get: function get() {
-    return _CableUsbC["default"];
+    return _DeviceTv["default"];
   }
 });
-Object.defineProperty(exports, "CableVga", {
+Object.defineProperty(exports, "DeviceWatch", {
   enumerable: true,
   get: function get() {
-    return _CableVga["default"];
+    return _DeviceWatch["default"];
   }
 });
-Object.defineProperty(exports, "Camp", {
+Object.defineProperty(exports, "Door", {
   enumerable: true,
   get: function get() {
-    return _Camp["default"];
+    return _Door["default"];
   }
 });
-Object.defineProperty(exports, "Check", {
+Object.defineProperty(exports, "Drop", {
   enumerable: true,
   get: function get() {
-    return _Check["default"];
+    return _Drop["default"];
   }
 });
-Object.defineProperty(exports, "CheckDouble", {
+Object.defineProperty(exports, "Eco", {
   enumerable: true,
   get: function get() {
-    return _CheckDouble["default"];
+    return _Eco["default"];
   }
 });
-Object.defineProperty(exports, "Clipboard", {
+Object.defineProperty(exports, "EcoAlt", {
   enumerable: true,
   get: function get() {
-    return _Clipboard["default"];
-  }
-});
-Object.defineProperty(exports, "Cmd", {
-  enumerable: true,
-  get: function get() {
-    return _Cmd["default"];
-  }
-});
-Object.defineProperty(exports, "Code", {
-  enumerable: true,
-  get: function get() {
-    return _Code["default"];
-  }
-});
-Object.defineProperty(exports, "Comment", {
-  enumerable: true,
-  get: function get() {
-    return _Comment["default"];
-  }
-});
-Object.defineProperty(exports, "ComputerChromebook", {
-  enumerable: true,
-  get: function get() {
-    return _ComputerChromebook["default"];
-  }
-});
-Object.defineProperty(exports, "ComputerKeyboard", {
-  enumerable: true,
-  get: function get() {
-    return _ComputerKeyboard["default"];
-  }
-});
-Object.defineProperty(exports, "ComputerLaptop", {
-  enumerable: true,
-  get: function get() {
-    return _ComputerLaptop["default"];
-  }
-});
-Object.defineProperty(exports, "ComputerMic", {
-  enumerable: true,
-  get: function get() {
-    return _ComputerMic["default"];
-  }
-});
-Object.defineProperty(exports, "ComputerMonitor", {
-  enumerable: true,
-  get: function get() {
-    return _ComputerMonitor["default"];
-  }
-});
-Object.defineProperty(exports, "ComputerRpi", {
-  enumerable: true,
-  get: function get() {
-    return _ComputerRpi["default"];
-  }
-});
-Object.defineProperty(exports, "ComputerWebcam", {
-  enumerable: true,
-  get: function get() {
-    return _ComputerWebcam["default"];
-  }
-});
-Object.defineProperty(exports, "Confetti", {
-  enumerable: true,
-  get: function get() {
-    return _Confetti["default"];
-  }
-});
-Object.defineProperty(exports, "Connector", {
-  enumerable: true,
-  get: function get() {
-    return _Connector["default"];
-  }
-});
-Object.defineProperty(exports, "Console", {
-  enumerable: true,
-  get: function get() {
-    return _Console["default"];
-  }
-});
-Object.defineProperty(exports, "Delete", {
-  enumerable: true,
-  get: function get() {
-    return _Delete["default"];
-  }
-});
-Object.defineProperty(exports, "DeleteBurn", {
-  enumerable: true,
-  get: function get() {
-    return _DeleteBurn["default"];
-  }
-});
-Object.defineProperty(exports, "DeleteCrumple", {
-  enumerable: true,
-  get: function get() {
-    return _DeleteCrumple["default"];
-  }
-});
-Object.defineProperty(exports, "DeleteErase", {
-  enumerable: true,
-  get: function get() {
-    return _DeleteErase["default"];
-  }
-});
-Object.defineProperty(exports, "DeleteIce", {
-  enumerable: true,
-  get: function get() {
-    return _DeleteIce["default"];
-  }
-});
-Object.defineProperty(exports, "DeleteTrash", {
-  enumerable: true,
-  get: function get() {
-    return _DeleteTrash["default"];
-  }
-});
-Object.defineProperty(exports, "Draft", {
-  enumerable: true,
-  get: function get() {
-    return _Draft["default"];
-  }
-});
-Object.defineProperty(exports, "Email", {
-  enumerable: true,
-  get: function get() {
-    return _Email["default"];
+    return _EcoAlt["default"];
   }
 });
 Object.defineProperty(exports, "Eye", {
@@ -327,10 +171,16 @@ Object.defineProperty(exports, "Eye", {
     return _Eye["default"];
   }
 });
-Object.defineProperty(exports, "EyeNo", {
+Object.defineProperty(exports, "FaceAngry", {
   enumerable: true,
   get: function get() {
-    return _EyeNo["default"];
+    return _FaceAngry["default"];
+  }
+});
+Object.defineProperty(exports, "FaceConfused", {
+  enumerable: true,
+  get: function get() {
+    return _FaceConfused["default"];
   }
 });
 Object.defineProperty(exports, "FaceHappy", {
@@ -339,10 +189,10 @@ Object.defineProperty(exports, "FaceHappy", {
     return _FaceHappy["default"];
   }
 });
-Object.defineProperty(exports, "FaceMeh", {
+Object.defineProperty(exports, "FaceNeutral", {
   enumerable: true,
   get: function get() {
-    return _FaceMeh["default"];
+    return _FaceNeutral["default"];
   }
 });
 Object.defineProperty(exports, "FaceSad", {
@@ -351,100 +201,100 @@ Object.defineProperty(exports, "FaceSad", {
     return _FaceSad["default"];
   }
 });
+Object.defineProperty(exports, "FaceVeryHappy", {
+  enumerable: true,
+  get: function get() {
+    return _FaceVeryHappy["default"];
+  }
+});
+Object.defineProperty(exports, "Fingerprint", {
+  enumerable: true,
+  get: function get() {
+    return _Fingerprint["default"];
+  }
+});
 Object.defineProperty(exports, "Food", {
   enumerable: true,
   get: function get() {
     return _Food["default"];
   }
 });
-Object.defineProperty(exports, "FoodDrink", {
+Object.defineProperty(exports, "FoodBread", {
   enumerable: true,
   get: function get() {
-    return _FoodDrink["default"];
+    return _FoodBread["default"];
   }
 });
-Object.defineProperty(exports, "FoodMidnightSnack", {
+Object.defineProperty(exports, "FoodCaffeine", {
   enumerable: true,
   get: function get() {
-    return _FoodMidnightSnack["default"];
+    return _FoodCaffeine["default"];
   }
 });
-Object.defineProperty(exports, "FoodNoDairy", {
+Object.defineProperty(exports, "FoodDairy", {
   enumerable: true,
   get: function get() {
-    return _FoodNoDairy["default"];
+    return _FoodDairy["default"];
   }
 });
-Object.defineProperty(exports, "FoodNoGluten", {
+Object.defineProperty(exports, "FoodDessert", {
   enumerable: true,
   get: function get() {
-    return _FoodNoGluten["default"];
+    return _FoodDessert["default"];
   }
 });
-Object.defineProperty(exports, "FoodNoNuts", {
+Object.defineProperty(exports, "FoodFruit", {
   enumerable: true,
   get: function get() {
-    return _FoodNoNuts["default"];
+    return _FoodFruit["default"];
   }
 });
-Object.defineProperty(exports, "FoodNoPork", {
+Object.defineProperty(exports, "FoodMeat", {
   enumerable: true,
   get: function get() {
-    return _FoodNoPork["default"];
+    return _FoodMeat["default"];
   }
 });
-Object.defineProperty(exports, "FoodNoSugar", {
+Object.defineProperty(exports, "FoodPork", {
   enumerable: true,
   get: function get() {
-    return _FoodNoSugar["default"];
+    return _FoodPork["default"];
   }
 });
-Object.defineProperty(exports, "FoodSnacks", {
+Object.defineProperty(exports, "FoodSnack", {
   enumerable: true,
   get: function get() {
-    return _FoodSnacks["default"];
+    return _FoodSnack["default"];
   }
 });
-Object.defineProperty(exports, "FoodVegan", {
+Object.defineProperty(exports, "FoodSoda", {
   enumerable: true,
   get: function get() {
-    return _FoodVegan["default"];
+    return _FoodSoda["default"];
   }
 });
-Object.defineProperty(exports, "FoodVegetarian", {
+Object.defineProperty(exports, "FoodVeggie", {
   enumerable: true,
   get: function get() {
-    return _FoodVegetarian["default"];
+    return _FoodVeggie["default"];
   }
 });
-Object.defineProperty(exports, "Forbidden", {
+Object.defineProperty(exports, "GenderFemale", {
   enumerable: true,
   get: function get() {
-    return _Forbidden["default"];
+    return _GenderFemale["default"];
   }
 });
-Object.defineProperty(exports, "ForbiddenAlt", {
+Object.defineProperty(exports, "GenderMale", {
   enumerable: true,
   get: function get() {
-    return _ForbiddenAlt["default"];
+    return _GenderMale["default"];
   }
 });
-Object.defineProperty(exports, "Function", {
+Object.defineProperty(exports, "GenderNeutral", {
   enumerable: true,
   get: function get() {
-    return _Function["default"];
-  }
-});
-Object.defineProperty(exports, "Game", {
-  enumerable: true,
-  get: function get() {
-    return _Game["default"];
-  }
-});
-Object.defineProperty(exports, "Git", {
-  enumerable: true,
-  get: function get() {
-    return _Git["default"];
+    return _GenderNeutral["default"];
   }
 });
 Object.defineProperty(exports, "Globe", {
@@ -453,118 +303,64 @@ Object.defineProperty(exports, "Globe", {
     return _Globe["default"];
   }
 });
-Object.defineProperty(exports, "GlobeAmerica", {
+Object.defineProperty(exports, "Goal", {
   enumerable: true,
   get: function get() {
-    return _GlobeAmerica["default"];
+    return _Goal["default"];
   }
 });
-Object.defineProperty(exports, "GlobeAsia", {
+Object.defineProperty(exports, "HeadFemale", {
   enumerable: true,
   get: function get() {
-    return _GlobeAsia["default"];
+    return _HeadFemale["default"];
   }
 });
-Object.defineProperty(exports, "GlobeEurope", {
+Object.defineProperty(exports, "HeadFemaleAdmin", {
   enumerable: true,
   get: function get() {
-    return _GlobeEurope["default"];
+    return _HeadFemaleAdmin["default"];
   }
 });
-Object.defineProperty(exports, "GlobeLocation", {
+Object.defineProperty(exports, "HeadGroup", {
   enumerable: true,
   get: function get() {
-    return _GlobeLocation["default"];
+    return _HeadGroup["default"];
   }
 });
-Object.defineProperty(exports, "Hamburger", {
+Object.defineProperty(exports, "HeadMale", {
   enumerable: true,
   get: function get() {
-    return _Hamburger["default"];
+    return _HeadMale["default"];
   }
 });
-Object.defineProperty(exports, "HamburgerMulti", {
+Object.defineProperty(exports, "HeadMaleAdmin", {
   enumerable: true,
   get: function get() {
-    return _HamburgerMulti["default"];
+    return _HeadMaleAdmin["default"];
   }
 });
-Object.defineProperty(exports, "Hello", {
+Object.defineProperty(exports, "Heart", {
   enumerable: true,
   get: function get() {
-    return _Hello["default"];
+    return _Heart["default"];
   }
 });
-Object.defineProperty(exports, "Help", {
+Object.defineProperty(exports, "Hierarchy", {
   enumerable: true,
   get: function get() {
-    return _Help["default"];
+    return _Hierarchy["default"];
   }
 });
-Object.defineProperty(exports, "HelpFaq", {
+Object.defineProperty(exports, "IdCard", {
   enumerable: true,
   get: function get() {
-    return _HelpFaq["default"];
+    return _IdCard["default"];
   }
 });
-Object.defineProperty(exports, "Hide", {
+Object.defineProperty(exports, "Keyboard", {
   enumerable: true,
   get: function get() {
-    return _Hide["default"];
-  }
-});
-Object.defineProperty(exports, "I18N", {
-  enumerable: true,
-  get: function get() {
-    return _I18N["default"];
-  }
-});
-Object.defineProperty(exports, "Illuminati", {
-  enumerable: true,
-  get: function get() {
-    return _Illuminati["default"];
-  }
-});
-Object.defineProperty(exports, "Image", {
-  enumerable: true,
-  get: function get() {
-    return _Image["default"];
-  }
-});
-Object.defineProperty(exports, "ImageCrop", {
-  enumerable: true,
-  get: function get() {
-    return _ImageCrop["default"];
-  }
-});
-Object.defineProperty(exports, "ImageEdit", {
-  enumerable: true,
-  get: function get() {
-    return _ImageEdit["default"];
-  }
-});
-Object.defineProperty(exports, "ImageResize", {
-  enumerable: true,
-  get: function get() {
-    return _ImageResize["default"];
-  }
-});
-Object.defineProperty(exports, "ImageRotateCcw", {
-  enumerable: true,
-  get: function get() {
-    return _ImageRotateCcw["default"];
-  }
-});
-Object.defineProperty(exports, "ImageRotateCw", {
-  enumerable: true,
-  get: function get() {
-    return _ImageRotateCw["default"];
-  }
-});
-Object.defineProperty(exports, "Legal", {
-  enumerable: true,
-  get: function get() {
-    return _Legal["default"];
+    return _Keyboard["default"];
   }
 });
 Object.defineProperty(exports, "Lock", {
@@ -573,1083 +369,607 @@ Object.defineProperty(exports, "Lock", {
     return _Lock["default"];
   }
 });
-Object.defineProperty(exports, "LogoAndroid", {
+Object.defineProperty(exports, "LockOpen", {
   enumerable: true,
   get: function get() {
-    return _LogoAndroid["default"];
+    return _LockOpen["default"];
   }
 });
-Object.defineProperty(exports, "LogoApple", {
+Object.defineProperty(exports, "Media", {
   enumerable: true,
   get: function get() {
-    return _LogoApple["default"];
+    return _Media["default"];
   }
 });
-Object.defineProperty(exports, "LogoDropbox", {
+Object.defineProperty(exports, "MediaPause", {
   enumerable: true,
   get: function get() {
-    return _LogoDropbox["default"];
+    return _MediaPause["default"];
   }
 });
-Object.defineProperty(exports, "LogoGameBattlenet", {
+Object.defineProperty(exports, "MediaPlay", {
   enumerable: true,
   get: function get() {
-    return _LogoGameBattlenet["default"];
+    return _MediaPlay["default"];
   }
 });
-Object.defineProperty(exports, "LogoGameDota", {
+Object.defineProperty(exports, "MedicalHospital", {
   enumerable: true,
   get: function get() {
-    return _LogoGameDota["default"];
+    return _MedicalHospital["default"];
   }
 });
-Object.defineProperty(exports, "LogoGameFortnite", {
+Object.defineProperty(exports, "MedicalNote", {
   enumerable: true,
   get: function get() {
-    return _LogoGameFortnite["default"];
+    return _MedicalNote["default"];
   }
 });
-Object.defineProperty(exports, "LogoGameLol", {
+Object.defineProperty(exports, "MedicalWheelChair", {
   enumerable: true,
   get: function get() {
-    return _LogoGameLol["default"];
+    return _MedicalWheelChair["default"];
   }
 });
-Object.defineProperty(exports, "LogoGameOverwatch", {
+Object.defineProperty(exports, "Mouse", {
   enumerable: true,
   get: function get() {
-    return _LogoGameOverwatch["default"];
+    return _Mouse["default"];
   }
 });
-Object.defineProperty(exports, "LogoGamePsn", {
+Object.defineProperty(exports, "Music", {
   enumerable: true,
   get: function get() {
-    return _LogoGamePsn["default"];
+    return _Music["default"];
   }
 });
-Object.defineProperty(exports, "LogoGameSteam", {
+Object.defineProperty(exports, "Night", {
   enumerable: true,
   get: function get() {
-    return _LogoGameSteam["default"];
+    return _Night["default"];
   }
 });
-Object.defineProperty(exports, "LogoGameWiiu", {
+Object.defineProperty(exports, "Password", {
   enumerable: true,
   get: function get() {
-    return _LogoGameWiiu["default"];
+    return _Password["default"];
   }
 });
-Object.defineProperty(exports, "LogoGameXbox", {
+Object.defineProperty(exports, "PaymentBasket", {
   enumerable: true,
   get: function get() {
-    return _LogoGameXbox["default"];
+    return _PaymentBasket["default"];
   }
 });
-Object.defineProperty(exports, "LogoGithub", {
+Object.defineProperty(exports, "PaymentCard", {
   enumerable: true,
   get: function get() {
-    return _LogoGithub["default"];
+    return _PaymentCard["default"];
   }
 });
-Object.defineProperty(exports, "LogoOnedrive", {
+Object.defineProperty(exports, "PaymentCash", {
   enumerable: true,
   get: function get() {
-    return _LogoOnedrive["default"];
+    return _PaymentCash["default"];
   }
 });
-Object.defineProperty(exports, "LogoSocialInstagram", {
+Object.defineProperty(exports, "PaymentDiscount", {
   enumerable: true,
   get: function get() {
-    return _LogoSocialInstagram["default"];
+    return _PaymentDiscount["default"];
   }
 });
-Object.defineProperty(exports, "LogoSocialLinkedin", {
+Object.defineProperty(exports, "PaymentMobile", {
   enumerable: true,
   get: function get() {
-    return _LogoSocialLinkedin["default"];
+    return _PaymentMobile["default"];
   }
 });
-Object.defineProperty(exports, "LogoSocialMessenger", {
+Object.defineProperty(exports, "PaymentReceipt", {
   enumerable: true,
   get: function get() {
-    return _LogoSocialMessenger["default"];
+    return _PaymentReceipt["default"];
   }
 });
-Object.defineProperty(exports, "LogoSocialProducthunt", {
+Object.defineProperty(exports, "Secure", {
   enumerable: true,
   get: function get() {
-    return _LogoSocialProducthunt["default"];
+    return _Secure["default"];
   }
 });
-Object.defineProperty(exports, "LogoSocialReddit", {
+Object.defineProperty(exports, "Shipped", {
   enumerable: true,
   get: function get() {
-    return _LogoSocialReddit["default"];
+    return _Shipped["default"];
   }
 });
-Object.defineProperty(exports, "LogoSocialSnap", {
+Object.defineProperty(exports, "ShootingStar", {
   enumerable: true,
   get: function get() {
-    return _LogoSocialSnap["default"];
+    return _ShootingStar["default"];
   }
 });
-Object.defineProperty(exports, "LogoSocialTelegram", {
+Object.defineProperty(exports, "Sports", {
   enumerable: true,
   get: function get() {
-    return _LogoSocialTelegram["default"];
+    return _Sports["default"];
   }
 });
-Object.defineProperty(exports, "LogoSocialTwitter", {
+Object.defineProperty(exports, "Stop", {
   enumerable: true,
   get: function get() {
-    return _LogoSocialTwitter["default"];
+    return _Stop["default"];
   }
 });
-Object.defineProperty(exports, "LogoSpotify", {
+Object.defineProperty(exports, "Storm", {
   enumerable: true,
   get: function get() {
-    return _LogoSpotify["default"];
+    return _Storm["default"];
   }
 });
-Object.defineProperty(exports, "LogoTwitch", {
+Object.defineProperty(exports, "SuperUserBadge", {
   enumerable: true,
   get: function get() {
-    return _LogoTwitch["default"];
+    return _SuperUserBadge["default"];
   }
 });
-Object.defineProperty(exports, "LogoWindows", {
+Object.defineProperty(exports, "Temperature", {
   enumerable: true,
   get: function get() {
-    return _LogoWindows["default"];
+    return _Temperature["default"];
   }
 });
-Object.defineProperty(exports, "LogoYoutube", {
+Object.defineProperty(exports, "Ticket", {
   enumerable: true,
   get: function get() {
-    return _LogoYoutube["default"];
+    return _Ticket["default"];
   }
 });
-Object.defineProperty(exports, "Markdown", {
+Object.defineProperty(exports, "TransportBus", {
   enumerable: true,
   get: function get() {
-    return _Markdown["default"];
+    return _TransportBus["default"];
   }
 });
-Object.defineProperty(exports, "Memo", {
+Object.defineProperty(exports, "TransportBusSchool", {
   enumerable: true,
   get: function get() {
-    return _Memo["default"];
+    return _TransportBusSchool["default"];
   }
 });
-Object.defineProperty(exports, "Mention", {
+Object.defineProperty(exports, "TransportCar", {
   enumerable: true,
   get: function get() {
-    return _Mention["default"];
+    return _TransportCar["default"];
   }
 });
-Object.defineProperty(exports, "MessageHelp", {
+Object.defineProperty(exports, "TransportDelivery", {
   enumerable: true,
   get: function get() {
-    return _MessageHelp["default"];
+    return _TransportDelivery["default"];
   }
 });
-Object.defineProperty(exports, "MessageImportant", {
+Object.defineProperty(exports, "TransportPlane", {
   enumerable: true,
   get: function get() {
-    return _MessageImportant["default"];
+    return _TransportPlane["default"];
   }
 });
-Object.defineProperty(exports, "MessageInfo", {
+Object.defineProperty(exports, "Trophy", {
   enumerable: true,
   get: function get() {
-    return _MessageInfo["default"];
+    return _Trophy["default"];
   }
 });
-Object.defineProperty(exports, "MessageWarn", {
+Object.defineProperty(exports, "UiAdd", {
   enumerable: true,
   get: function get() {
-    return _MessageWarn["default"];
+    return _UiAdd["default"];
   }
 });
-Object.defineProperty(exports, "MoneyCard", {
+Object.defineProperty(exports, "UiBookmark", {
   enumerable: true,
   get: function get() {
-    return _MoneyCard["default"];
+    return _UiBookmark["default"];
   }
 });
-Object.defineProperty(exports, "MoneyCurrencyCad", {
+Object.defineProperty(exports, "UiCheck", {
   enumerable: true,
   get: function get() {
-    return _MoneyCurrencyCad["default"];
+    return _UiCheck["default"];
   }
 });
-Object.defineProperty(exports, "MoneyCurrencyEur", {
+Object.defineProperty(exports, "UiCog", {
   enumerable: true,
   get: function get() {
-    return _MoneyCurrencyEur["default"];
+    return _UiCog["default"];
   }
 });
-Object.defineProperty(exports, "MoneyCurrencyGbp", {
+Object.defineProperty(exports, "UiDownload", {
   enumerable: true,
   get: function get() {
-    return _MoneyCurrencyGbp["default"];
+    return _UiDownload["default"];
   }
 });
-Object.defineProperty(exports, "MoneyCurrencyUsd", {
+Object.defineProperty(exports, "UiEdit", {
   enumerable: true,
   get: function get() {
-    return _MoneyCurrencyUsd["default"];
+    return _UiEdit["default"];
   }
 });
-Object.defineProperty(exports, "MoneyDollar", {
+Object.defineProperty(exports, "UiFilter", {
   enumerable: true,
   get: function get() {
-    return _MoneyDollar["default"];
+    return _UiFilter["default"];
   }
 });
-Object.defineProperty(exports, "MoneyGl", {
+Object.defineProperty(exports, "UiFolder", {
   enumerable: true,
   get: function get() {
-    return _MoneyGl["default"];
+    return _UiFolder["default"];
   }
 });
-Object.defineProperty(exports, "MoneyProviderAmex", {
+Object.defineProperty(exports, "UiFullscreen", {
   enumerable: true,
   get: function get() {
-    return _MoneyProviderAmex["default"];
+    return _UiFullscreen["default"];
   }
 });
-Object.defineProperty(exports, "MoneyProviderApple", {
+Object.defineProperty(exports, "UiFullscreenExit", {
   enumerable: true,
   get: function get() {
-    return _MoneyProviderApple["default"];
+    return _UiFullscreenExit["default"];
   }
 });
-Object.defineProperty(exports, "MoneyProviderDinersclub", {
+Object.defineProperty(exports, "UiMenu", {
   enumerable: true,
   get: function get() {
-    return _MoneyProviderDinersclub["default"];
+    return _UiMenu["default"];
   }
 });
-Object.defineProperty(exports, "MoneyProviderDiscover", {
+Object.defineProperty(exports, "UiMore", {
   enumerable: true,
   get: function get() {
-    return _MoneyProviderDiscover["default"];
+    return _UiMore["default"];
   }
 });
-Object.defineProperty(exports, "MoneyProviderJcb", {
+Object.defineProperty(exports, "UiPrint", {
   enumerable: true,
   get: function get() {
-    return _MoneyProviderJcb["default"];
+    return _UiPrint["default"];
   }
 });
-Object.defineProperty(exports, "MoneyProviderMastercard", {
+Object.defineProperty(exports, "UiReload", {
   enumerable: true,
   get: function get() {
-    return _MoneyProviderMastercard["default"];
+    return _UiReload["default"];
   }
 });
-Object.defineProperty(exports, "MoneyProviderPaypal", {
+Object.defineProperty(exports, "UiSearch", {
   enumerable: true,
   get: function get() {
-    return _MoneyProviderPaypal["default"];
+    return _UiSearch["default"];
   }
 });
-Object.defineProperty(exports, "MoneyProviderVisa", {
+Object.defineProperty(exports, "UiShare", {
   enumerable: true,
   get: function get() {
-    return _MoneyProviderVisa["default"];
+    return _UiShare["default"];
   }
 });
-Object.defineProperty(exports, "MoneyReceipt", {
+Object.defineProperty(exports, "UiStar", {
   enumerable: true,
   get: function get() {
-    return _MoneyReceipt["default"];
+    return _UiStar["default"];
   }
 });
-Object.defineProperty(exports, "MoneyTax", {
+Object.defineProperty(exports, "UiSync", {
   enumerable: true,
   get: function get() {
-    return _MoneyTax["default"];
+    return _UiSync["default"];
   }
 });
-Object.defineProperty(exports, "Move", {
+Object.defineProperty(exports, "UiTrash", {
   enumerable: true,
   get: function get() {
-    return _Move["default"];
+    return _UiTrash["default"];
   }
 });
-Object.defineProperty(exports, "MoveDragDown", {
+Object.defineProperty(exports, "UiUpload", {
   enumerable: true,
   get: function get() {
-    return _MoveDragDown["default"];
+    return _UiUpload["default"];
   }
 });
-Object.defineProperty(exports, "MoveDragUp", {
+Object.defineProperty(exports, "UiVolume", {
   enumerable: true,
   get: function get() {
-    return _MoveDragUp["default"];
+    return _UiVolume["default"];
   }
 });
-Object.defineProperty(exports, "MoveDragUpdown", {
+Object.defineProperty(exports, "UiVolumeLower", {
   enumerable: true,
   get: function get() {
-    return _MoveDragUpdown["default"];
+    return _UiVolumeLower["default"];
   }
 });
-Object.defineProperty(exports, "Notification", {
+Object.defineProperty(exports, "UiVolumeMute", {
   enumerable: true,
   get: function get() {
-    return _Notification["default"];
+    return _UiVolumeMute["default"];
   }
 });
-Object.defineProperty(exports, "Party", {
+Object.defineProperty(exports, "UiX", {
   enumerable: true,
   get: function get() {
-    return _Party["default"];
+    return _UiX["default"];
   }
 });
-Object.defineProperty(exports, "Pin", {
+Object.defineProperty(exports, "UiZoomIn", {
   enumerable: true,
   get: function get() {
-    return _Pin["default"];
+    return _UiZoomIn["default"];
   }
 });
-Object.defineProperty(exports, "PinRemove", {
+Object.defineProperty(exports, "UiZoomOut", {
   enumerable: true,
   get: function get() {
-    return _PinRemove["default"];
+    return _UiZoomOut["default"];
   }
 });
-Object.defineProperty(exports, "Private", {
+Object.defineProperty(exports, "Usb", {
   enumerable: true,
   get: function get() {
-    return _Private["default"];
+    return _Usb["default"];
   }
 });
-Object.defineProperty(exports, "Promise", {
+Object.defineProperty(exports, "WifiPassword", {
   enumerable: true,
   get: function get() {
-    return _Promise["default"];
-  }
-});
-Object.defineProperty(exports, "Queue", {
-  enumerable: true,
-  get: function get() {
-    return _Queue["default"];
-  }
-});
-Object.defineProperty(exports, "QueueJoin", {
-  enumerable: true,
-  get: function get() {
-    return _QueueJoin["default"];
-  }
-});
-Object.defineProperty(exports, "Save", {
-  enumerable: true,
-  get: function get() {
-    return _Save["default"];
-  }
-});
-Object.defineProperty(exports, "School", {
-  enumerable: true,
-  get: function get() {
-    return _School["default"];
-  }
-});
-Object.defineProperty(exports, "Send", {
-  enumerable: true,
-  get: function get() {
-    return _Send["default"];
-  }
-});
-Object.defineProperty(exports, "ShieldNo", {
-  enumerable: true,
-  get: function get() {
-    return _ShieldNo["default"];
-  }
-});
-Object.defineProperty(exports, "ShieldOk", {
-  enumerable: true,
-  get: function get() {
-    return _ShieldOk["default"];
-  }
-});
-Object.defineProperty(exports, "ShieldWarn", {
-  enumerable: true,
-  get: function get() {
-    return _ShieldWarn["default"];
-  }
-});
-Object.defineProperty(exports, "Spam", {
-  enumerable: true,
-  get: function get() {
-    return _Spam["default"];
-  }
-});
-Object.defineProperty(exports, "Sport", {
-  enumerable: true,
-  get: function get() {
-    return _Sport["default"];
-  }
-});
-Object.defineProperty(exports, "Ssh", {
-  enumerable: true,
-  get: function get() {
-    return _Ssh["default"];
-  }
-});
-Object.defineProperty(exports, "StoreDrive", {
-  enumerable: true,
-  get: function get() {
-    return _StoreDrive["default"];
-  }
-});
-Object.defineProperty(exports, "StoreGdrive", {
-  enumerable: true,
-  get: function get() {
-    return _StoreGdrive["default"];
-  }
-});
-Object.defineProperty(exports, "StoreNetwork", {
-  enumerable: true,
-  get: function get() {
-    return _StoreNetwork["default"];
-  }
-});
-Object.defineProperty(exports, "StoreSd", {
-  enumerable: true,
-  get: function get() {
-    return _StoreSd["default"];
-  }
-});
-Object.defineProperty(exports, "StoreUsb", {
-  enumerable: true,
-  get: function get() {
-    return _StoreUsb["default"];
-  }
-});
-Object.defineProperty(exports, "TextAlignCenter", {
-  enumerable: true,
-  get: function get() {
-    return _TextAlignCenter["default"];
-  }
-});
-Object.defineProperty(exports, "TextAlignJustify", {
-  enumerable: true,
-  get: function get() {
-    return _TextAlignJustify["default"];
-  }
-});
-Object.defineProperty(exports, "TextAlignLeft", {
-  enumerable: true,
-  get: function get() {
-    return _TextAlignLeft["default"];
-  }
-});
-Object.defineProperty(exports, "TextAlignRight", {
-  enumerable: true,
-  get: function get() {
-    return _TextAlignRight["default"];
-  }
-});
-Object.defineProperty(exports, "TextFont", {
-  enumerable: true,
-  get: function get() {
-    return _TextFont["default"];
-  }
-});
-Object.defineProperty(exports, "TextFormatBold", {
-  enumerable: true,
-  get: function get() {
-    return _TextFormatBold["default"];
-  }
-});
-Object.defineProperty(exports, "TextFormatItalic", {
-  enumerable: true,
-  get: function get() {
-    return _TextFormatItalic["default"];
-  }
-});
-Object.defineProperty(exports, "TextFormatStrike", {
-  enumerable: true,
-  get: function get() {
-    return _TextFormatStrike["default"];
-  }
-});
-Object.defineProperty(exports, "TextFormatUnderline", {
-  enumerable: true,
-  get: function get() {
-    return _TextFormatUnderline["default"];
-  }
-});
-Object.defineProperty(exports, "TextH1", {
-  enumerable: true,
-  get: function get() {
-    return _TextH["default"];
-  }
-});
-Object.defineProperty(exports, "TextH2", {
-  enumerable: true,
-  get: function get() {
-    return _TextH2["default"];
-  }
-});
-Object.defineProperty(exports, "TextH3", {
-  enumerable: true,
-  get: function get() {
-    return _TextH3["default"];
-  }
-});
-Object.defineProperty(exports, "TextIndent", {
-  enumerable: true,
-  get: function get() {
-    return _TextIndent["default"];
-  }
-});
-Object.defineProperty(exports, "TextOl", {
-  enumerable: true,
-  get: function get() {
-    return _TextOl["default"];
-  }
-});
-Object.defineProperty(exports, "TextOutdent", {
-  enumerable: true,
-  get: function get() {
-    return _TextOutdent["default"];
-  }
-});
-Object.defineProperty(exports, "TextParagraph", {
-  enumerable: true,
-  get: function get() {
-    return _TextParagraph["default"];
-  }
-});
-Object.defineProperty(exports, "TextSub", {
-  enumerable: true,
-  get: function get() {
-    return _TextSub["default"];
-  }
-});
-Object.defineProperty(exports, "TextSuper", {
-  enumerable: true,
-  get: function get() {
-    return _TextSuper["default"];
-  }
-});
-Object.defineProperty(exports, "TextUl", {
-  enumerable: true,
-  get: function get() {
-    return _TextUl["default"];
-  }
-});
-Object.defineProperty(exports, "Undo", {
-  enumerable: true,
-  get: function get() {
-    return _Undo["default"];
-  }
-});
-Object.defineProperty(exports, "User", {
-  enumerable: true,
-  get: function get() {
-    return _User["default"];
-  }
-});
-Object.defineProperty(exports, "UserAdmin", {
-  enumerable: true,
-  get: function get() {
-    return _UserAdmin["default"];
-  }
-});
-Object.defineProperty(exports, "UserAnonymous", {
-  enumerable: true,
-  get: function get() {
-    return _UserAnonymous["default"];
-  }
-});
-Object.defineProperty(exports, "UserBirthday", {
-  enumerable: true,
-  get: function get() {
-    return _UserBirthday["default"];
-  }
-});
-Object.defineProperty(exports, "UserFemale", {
-  enumerable: true,
-  get: function get() {
-    return _UserFemale["default"];
-  }
-});
-Object.defineProperty(exports, "UserFemaleStaff", {
-  enumerable: true,
-  get: function get() {
-    return _UserFemaleStaff["default"];
-  }
-});
-Object.defineProperty(exports, "UserFind", {
-  enumerable: true,
-  get: function get() {
-    return _UserFind["default"];
-  }
-});
-Object.defineProperty(exports, "UserGroup", {
-  enumerable: true,
-  get: function get() {
-    return _UserGroup["default"];
-  }
-});
-Object.defineProperty(exports, "UserMale", {
-  enumerable: true,
-  get: function get() {
-    return _UserMale["default"];
-  }
-});
-Object.defineProperty(exports, "UserMaleStaff", {
-  enumerable: true,
-  get: function get() {
-    return _UserMaleStaff["default"];
-  }
-});
-Object.defineProperty(exports, "UserVerified", {
-  enumerable: true,
-  get: function get() {
-    return _UserVerified["default"];
-  }
-});
-Object.defineProperty(exports, "UserVip", {
-  enumerable: true,
-  get: function get() {
-    return _UserVip["default"];
-  }
-});
-Object.defineProperty(exports, "Vr", {
-  enumerable: true,
-  get: function get() {
-    return _Vr["default"];
-  }
-});
-Object.defineProperty(exports, "ZoomIn", {
-  enumerable: true,
-  get: function get() {
-    return _ZoomIn["default"];
-  }
-});
-Object.defineProperty(exports, "ZoomOut", {
-  enumerable: true,
-  get: function get() {
-    return _ZoomOut["default"];
+    return _WifiPassword["default"];
   }
 });
 
-var _A11Y = _interopRequireDefault(require("./A11Y.js"));
+var _Agreement = _interopRequireDefault(require("./Agreement.js"));
 
 var _Announcement = _interopRequireDefault(require("./Announcement.js"));
 
-var _Api = _interopRequireDefault(require("./Api.js"));
+var _Backpack = _interopRequireDefault(require("./Backpack.js"));
 
-var _AppSwitcher = _interopRequireDefault(require("./AppSwitcher.js"));
-
-var _ArrowBack = _interopRequireDefault(require("./ArrowBack.js"));
-
-var _ArrowForward = _interopRequireDefault(require("./ArrowForward.js"));
-
-var _ArrowForwardDouble = _interopRequireDefault(require("./ArrowForwardDouble.js"));
-
-var _Barcode = _interopRequireDefault(require("./Barcode.js"));
-
-var _Barcode2D = _interopRequireDefault(require("./Barcode2D.js"));
+var _BehavioralTargeting = _interopRequireDefault(require("./BehavioralTargeting.js"));
 
 var _Bolt = _interopRequireDefault(require("./Bolt.js"));
 
-var _Book = _interopRequireDefault(require("./Book.js"));
+var _Brain = _interopRequireDefault(require("./Brain.js"));
 
-var _BookOpen = _interopRequireDefault(require("./BookOpen.js"));
+var _BuildingHome = _interopRequireDefault(require("./BuildingHome.js"));
 
-var _Bot = _interopRequireDefault(require("./Bot.js"));
+var _BuildingOffice = _interopRequireDefault(require("./BuildingOffice.js"));
 
-var _Broadcast = _interopRequireDefault(require("./Broadcast.js"));
+var _BuildingSchool = _interopRequireDefault(require("./BuildingSchool.js"));
 
-var _BroadcastOff = _interopRequireDefault(require("./BroadcastOff.js"));
+var _Calendar = _interopRequireDefault(require("./Calendar.js"));
 
-var _BrowserChrome = _interopRequireDefault(require("./BrowserChrome.js"));
+var _Camera = _interopRequireDefault(require("./Camera.js"));
 
-var _BrowserEdge = _interopRequireDefault(require("./BrowserEdge.js"));
+var _Camping = _interopRequireDefault(require("./Camping.js"));
 
-var _BrowserFirefox = _interopRequireDefault(require("./BrowserFirefox.js"));
+var _Certificate = _interopRequireDefault(require("./Certificate.js"));
 
-var _BrowserIe = _interopRequireDefault(require("./BrowserIe.js"));
+var _Certified = _interopRequireDefault(require("./Certified.js"));
 
-var _BrowserSafari = _interopRequireDefault(require("./BrowserSafari.js"));
+var _Compass = _interopRequireDefault(require("./Compass.js"));
 
-var _CableEthOff = _interopRequireDefault(require("./CableEthOff.js"));
+var _Day = _interopRequireDefault(require("./Day.js"));
 
-var _CableEthOn = _interopRequireDefault(require("./CableEthOn.js"));
+var _DeviceConsole = _interopRequireDefault(require("./DeviceConsole.js"));
 
-var _CableEthPoe = _interopRequireDefault(require("./CableEthPoe.js"));
+var _DeviceDesktop = _interopRequireDefault(require("./DeviceDesktop.js"));
 
-var _CableHdmi = _interopRequireDefault(require("./CableHdmi.js"));
+var _DeviceLaptop = _interopRequireDefault(require("./DeviceLaptop.js"));
 
-var _CableThunderbolt = _interopRequireDefault(require("./CableThunderbolt.js"));
+var _DevicePhone = _interopRequireDefault(require("./DevicePhone.js"));
 
-var _CableUsb = _interopRequireDefault(require("./CableUsb.js"));
+var _DeviceTablet = _interopRequireDefault(require("./DeviceTablet.js"));
 
-var _CableUsbC = _interopRequireDefault(require("./CableUsbC.js"));
+var _DeviceTv = _interopRequireDefault(require("./DeviceTv.js"));
 
-var _CableVga = _interopRequireDefault(require("./CableVga.js"));
+var _DeviceWatch = _interopRequireDefault(require("./DeviceWatch.js"));
 
-var _Camp = _interopRequireDefault(require("./Camp.js"));
+var _Door = _interopRequireDefault(require("./Door.js"));
 
-var _Check = _interopRequireDefault(require("./Check.js"));
+var _Drop = _interopRequireDefault(require("./Drop.js"));
 
-var _CheckDouble = _interopRequireDefault(require("./CheckDouble.js"));
+var _Eco = _interopRequireDefault(require("./Eco.js"));
 
-var _Clipboard = _interopRequireDefault(require("./Clipboard.js"));
-
-var _Cmd = _interopRequireDefault(require("./Cmd.js"));
-
-var _Code = _interopRequireDefault(require("./Code.js"));
-
-var _Comment = _interopRequireDefault(require("./Comment.js"));
-
-var _ComputerChromebook = _interopRequireDefault(require("./ComputerChromebook.js"));
-
-var _ComputerKeyboard = _interopRequireDefault(require("./ComputerKeyboard.js"));
-
-var _ComputerLaptop = _interopRequireDefault(require("./ComputerLaptop.js"));
-
-var _ComputerMic = _interopRequireDefault(require("./ComputerMic.js"));
-
-var _ComputerMonitor = _interopRequireDefault(require("./ComputerMonitor.js"));
-
-var _ComputerRpi = _interopRequireDefault(require("./ComputerRpi.js"));
-
-var _ComputerWebcam = _interopRequireDefault(require("./ComputerWebcam.js"));
-
-var _Confetti = _interopRequireDefault(require("./Confetti.js"));
-
-var _Connector = _interopRequireDefault(require("./Connector.js"));
-
-var _Console = _interopRequireDefault(require("./Console.js"));
-
-var _Delete = _interopRequireDefault(require("./Delete.js"));
-
-var _DeleteBurn = _interopRequireDefault(require("./DeleteBurn.js"));
-
-var _DeleteCrumple = _interopRequireDefault(require("./DeleteCrumple.js"));
-
-var _DeleteErase = _interopRequireDefault(require("./DeleteErase.js"));
-
-var _DeleteIce = _interopRequireDefault(require("./DeleteIce.js"));
-
-var _DeleteTrash = _interopRequireDefault(require("./DeleteTrash.js"));
-
-var _Draft = _interopRequireDefault(require("./Draft.js"));
-
-var _Email = _interopRequireDefault(require("./Email.js"));
+var _EcoAlt = _interopRequireDefault(require("./EcoAlt.js"));
 
 var _Eye = _interopRequireDefault(require("./Eye.js"));
 
-var _EyeNo = _interopRequireDefault(require("./EyeNo.js"));
+var _FaceAngry = _interopRequireDefault(require("./FaceAngry.js"));
+
+var _FaceConfused = _interopRequireDefault(require("./FaceConfused.js"));
 
 var _FaceHappy = _interopRequireDefault(require("./FaceHappy.js"));
 
-var _FaceMeh = _interopRequireDefault(require("./FaceMeh.js"));
+var _FaceNeutral = _interopRequireDefault(require("./FaceNeutral.js"));
 
 var _FaceSad = _interopRequireDefault(require("./FaceSad.js"));
 
+var _FaceVeryHappy = _interopRequireDefault(require("./FaceVeryHappy.js"));
+
+var _Fingerprint = _interopRequireDefault(require("./Fingerprint.js"));
+
 var _Food = _interopRequireDefault(require("./Food.js"));
 
-var _FoodDrink = _interopRequireDefault(require("./FoodDrink.js"));
+var _FoodBread = _interopRequireDefault(require("./FoodBread.js"));
 
-var _FoodMidnightSnack = _interopRequireDefault(require("./FoodMidnightSnack.js"));
+var _FoodCaffeine = _interopRequireDefault(require("./FoodCaffeine.js"));
 
-var _FoodNoDairy = _interopRequireDefault(require("./FoodNoDairy.js"));
+var _FoodDairy = _interopRequireDefault(require("./FoodDairy.js"));
 
-var _FoodNoGluten = _interopRequireDefault(require("./FoodNoGluten.js"));
+var _FoodDessert = _interopRequireDefault(require("./FoodDessert.js"));
 
-var _FoodNoNuts = _interopRequireDefault(require("./FoodNoNuts.js"));
+var _FoodFruit = _interopRequireDefault(require("./FoodFruit.js"));
 
-var _FoodNoPork = _interopRequireDefault(require("./FoodNoPork.js"));
+var _FoodMeat = _interopRequireDefault(require("./FoodMeat.js"));
 
-var _FoodNoSugar = _interopRequireDefault(require("./FoodNoSugar.js"));
+var _FoodPork = _interopRequireDefault(require("./FoodPork.js"));
 
-var _FoodSnacks = _interopRequireDefault(require("./FoodSnacks.js"));
+var _FoodSnack = _interopRequireDefault(require("./FoodSnack.js"));
 
-var _FoodVegan = _interopRequireDefault(require("./FoodVegan.js"));
+var _FoodSoda = _interopRequireDefault(require("./FoodSoda.js"));
 
-var _FoodVegetarian = _interopRequireDefault(require("./FoodVegetarian.js"));
+var _FoodVeggie = _interopRequireDefault(require("./FoodVeggie.js"));
 
-var _Forbidden = _interopRequireDefault(require("./Forbidden.js"));
+var _GenderFemale = _interopRequireDefault(require("./GenderFemale.js"));
 
-var _ForbiddenAlt = _interopRequireDefault(require("./ForbiddenAlt.js"));
+var _GenderMale = _interopRequireDefault(require("./GenderMale.js"));
 
-var _Function = _interopRequireDefault(require("./Function.js"));
-
-var _Game = _interopRequireDefault(require("./Game.js"));
-
-var _Git = _interopRequireDefault(require("./Git.js"));
+var _GenderNeutral = _interopRequireDefault(require("./GenderNeutral.js"));
 
 var _Globe = _interopRequireDefault(require("./Globe.js"));
 
-var _GlobeAmerica = _interopRequireDefault(require("./GlobeAmerica.js"));
+var _Goal = _interopRequireDefault(require("./Goal.js"));
 
-var _GlobeAsia = _interopRequireDefault(require("./GlobeAsia.js"));
+var _HeadFemale = _interopRequireDefault(require("./HeadFemale.js"));
 
-var _GlobeEurope = _interopRequireDefault(require("./GlobeEurope.js"));
+var _HeadFemaleAdmin = _interopRequireDefault(require("./HeadFemaleAdmin.js"));
 
-var _GlobeLocation = _interopRequireDefault(require("./GlobeLocation.js"));
+var _HeadGroup = _interopRequireDefault(require("./HeadGroup.js"));
 
-var _Hamburger = _interopRequireDefault(require("./Hamburger.js"));
+var _HeadMale = _interopRequireDefault(require("./HeadMale.js"));
 
-var _HamburgerMulti = _interopRequireDefault(require("./HamburgerMulti.js"));
+var _HeadMaleAdmin = _interopRequireDefault(require("./HeadMaleAdmin.js"));
 
-var _Hello = _interopRequireDefault(require("./Hello.js"));
+var _Heart = _interopRequireDefault(require("./Heart.js"));
 
-var _Help = _interopRequireDefault(require("./Help.js"));
+var _Hierarchy = _interopRequireDefault(require("./Hierarchy.js"));
 
-var _HelpFaq = _interopRequireDefault(require("./HelpFaq.js"));
+var _IdCard = _interopRequireDefault(require("./IdCard.js"));
 
-var _Hide = _interopRequireDefault(require("./Hide.js"));
-
-var _I18N = _interopRequireDefault(require("./I18N.js"));
-
-var _Illuminati = _interopRequireDefault(require("./Illuminati.js"));
-
-var _Image = _interopRequireDefault(require("./Image.js"));
-
-var _ImageCrop = _interopRequireDefault(require("./ImageCrop.js"));
-
-var _ImageEdit = _interopRequireDefault(require("./ImageEdit.js"));
-
-var _ImageResize = _interopRequireDefault(require("./ImageResize.js"));
-
-var _ImageRotateCcw = _interopRequireDefault(require("./ImageRotateCcw.js"));
-
-var _ImageRotateCw = _interopRequireDefault(require("./ImageRotateCw.js"));
-
-var _Legal = _interopRequireDefault(require("./Legal.js"));
+var _Keyboard = _interopRequireDefault(require("./Keyboard.js"));
 
 var _Lock = _interopRequireDefault(require("./Lock.js"));
 
-var _LogoAndroid = _interopRequireDefault(require("./LogoAndroid.js"));
+var _LockOpen = _interopRequireDefault(require("./LockOpen.js"));
 
-var _LogoApple = _interopRequireDefault(require("./LogoApple.js"));
+var _Media = _interopRequireDefault(require("./Media.js"));
 
-var _LogoDropbox = _interopRequireDefault(require("./LogoDropbox.js"));
+var _MediaPause = _interopRequireDefault(require("./MediaPause.js"));
 
-var _LogoGameBattlenet = _interopRequireDefault(require("./LogoGameBattlenet.js"));
+var _MediaPlay = _interopRequireDefault(require("./MediaPlay.js"));
 
-var _LogoGameDota = _interopRequireDefault(require("./LogoGameDota.js"));
+var _MedicalHospital = _interopRequireDefault(require("./MedicalHospital.js"));
 
-var _LogoGameFortnite = _interopRequireDefault(require("./LogoGameFortnite.js"));
+var _MedicalNote = _interopRequireDefault(require("./MedicalNote.js"));
 
-var _LogoGameLol = _interopRequireDefault(require("./LogoGameLol.js"));
+var _MedicalWheelChair = _interopRequireDefault(require("./MedicalWheelChair.js"));
 
-var _LogoGameOverwatch = _interopRequireDefault(require("./LogoGameOverwatch.js"));
+var _Mouse = _interopRequireDefault(require("./Mouse.js"));
 
-var _LogoGamePsn = _interopRequireDefault(require("./LogoGamePsn.js"));
+var _Music = _interopRequireDefault(require("./Music.js"));
 
-var _LogoGameSteam = _interopRequireDefault(require("./LogoGameSteam.js"));
+var _Night = _interopRequireDefault(require("./Night.js"));
 
-var _LogoGameWiiu = _interopRequireDefault(require("./LogoGameWiiu.js"));
+var _Password = _interopRequireDefault(require("./Password.js"));
 
-var _LogoGameXbox = _interopRequireDefault(require("./LogoGameXbox.js"));
+var _PaymentBasket = _interopRequireDefault(require("./PaymentBasket.js"));
 
-var _LogoGithub = _interopRequireDefault(require("./LogoGithub.js"));
+var _PaymentCard = _interopRequireDefault(require("./PaymentCard.js"));
 
-var _LogoOnedrive = _interopRequireDefault(require("./LogoOnedrive.js"));
+var _PaymentCash = _interopRequireDefault(require("./PaymentCash.js"));
 
-var _LogoSocialInstagram = _interopRequireDefault(require("./LogoSocialInstagram.js"));
+var _PaymentDiscount = _interopRequireDefault(require("./PaymentDiscount.js"));
 
-var _LogoSocialLinkedin = _interopRequireDefault(require("./LogoSocialLinkedin.js"));
+var _PaymentMobile = _interopRequireDefault(require("./PaymentMobile.js"));
 
-var _LogoSocialMessenger = _interopRequireDefault(require("./LogoSocialMessenger.js"));
+var _PaymentReceipt = _interopRequireDefault(require("./PaymentReceipt.js"));
 
-var _LogoSocialProducthunt = _interopRequireDefault(require("./LogoSocialProducthunt.js"));
+var _Secure = _interopRequireDefault(require("./Secure.js"));
 
-var _LogoSocialReddit = _interopRequireDefault(require("./LogoSocialReddit.js"));
+var _Shipped = _interopRequireDefault(require("./Shipped.js"));
 
-var _LogoSocialSnap = _interopRequireDefault(require("./LogoSocialSnap.js"));
+var _ShootingStar = _interopRequireDefault(require("./ShootingStar.js"));
 
-var _LogoSocialTelegram = _interopRequireDefault(require("./LogoSocialTelegram.js"));
+var _Sports = _interopRequireDefault(require("./Sports.js"));
 
-var _LogoSocialTwitter = _interopRequireDefault(require("./LogoSocialTwitter.js"));
+var _Stop = _interopRequireDefault(require("./Stop.js"));
 
-var _LogoSpotify = _interopRequireDefault(require("./LogoSpotify.js"));
+var _Storm = _interopRequireDefault(require("./Storm.js"));
 
-var _LogoTwitch = _interopRequireDefault(require("./LogoTwitch.js"));
+var _SuperUserBadge = _interopRequireDefault(require("./SuperUserBadge.js"));
 
-var _LogoWindows = _interopRequireDefault(require("./LogoWindows.js"));
+var _Temperature = _interopRequireDefault(require("./Temperature.js"));
 
-var _LogoYoutube = _interopRequireDefault(require("./LogoYoutube.js"));
+var _Ticket = _interopRequireDefault(require("./Ticket.js"));
 
-var _Markdown = _interopRequireDefault(require("./Markdown.js"));
+var _TransportBus = _interopRequireDefault(require("./TransportBus.js"));
 
-var _Memo = _interopRequireDefault(require("./Memo.js"));
+var _TransportBusSchool = _interopRequireDefault(require("./TransportBusSchool.js"));
 
-var _Mention = _interopRequireDefault(require("./Mention.js"));
+var _TransportCar = _interopRequireDefault(require("./TransportCar.js"));
 
-var _MessageHelp = _interopRequireDefault(require("./MessageHelp.js"));
+var _TransportDelivery = _interopRequireDefault(require("./TransportDelivery.js"));
 
-var _MessageImportant = _interopRequireDefault(require("./MessageImportant.js"));
+var _TransportPlane = _interopRequireDefault(require("./TransportPlane.js"));
 
-var _MessageInfo = _interopRequireDefault(require("./MessageInfo.js"));
+var _Trophy = _interopRequireDefault(require("./Trophy.js"));
 
-var _MessageWarn = _interopRequireDefault(require("./MessageWarn.js"));
+var _UiAdd = _interopRequireDefault(require("./UiAdd.js"));
 
-var _MoneyCard = _interopRequireDefault(require("./MoneyCard.js"));
+var _UiBookmark = _interopRequireDefault(require("./UiBookmark.js"));
 
-var _MoneyCurrencyCad = _interopRequireDefault(require("./MoneyCurrencyCad.js"));
+var _UiCheck = _interopRequireDefault(require("./UiCheck.js"));
 
-var _MoneyCurrencyEur = _interopRequireDefault(require("./MoneyCurrencyEur.js"));
+var _UiCog = _interopRequireDefault(require("./UiCog.js"));
 
-var _MoneyCurrencyGbp = _interopRequireDefault(require("./MoneyCurrencyGbp.js"));
+var _UiDownload = _interopRequireDefault(require("./UiDownload.js"));
 
-var _MoneyCurrencyUsd = _interopRequireDefault(require("./MoneyCurrencyUsd.js"));
+var _UiEdit = _interopRequireDefault(require("./UiEdit.js"));
 
-var _MoneyDollar = _interopRequireDefault(require("./MoneyDollar.js"));
+var _UiFilter = _interopRequireDefault(require("./UiFilter.js"));
 
-var _MoneyGl = _interopRequireDefault(require("./MoneyGl.js"));
+var _UiFolder = _interopRequireDefault(require("./UiFolder.js"));
 
-var _MoneyProviderAmex = _interopRequireDefault(require("./MoneyProviderAmex.js"));
+var _UiFullscreen = _interopRequireDefault(require("./UiFullscreen.js"));
 
-var _MoneyProviderApple = _interopRequireDefault(require("./MoneyProviderApple.js"));
+var _UiFullscreenExit = _interopRequireDefault(require("./UiFullscreenExit.js"));
 
-var _MoneyProviderDinersclub = _interopRequireDefault(require("./MoneyProviderDinersclub.js"));
+var _UiMenu = _interopRequireDefault(require("./UiMenu.js"));
 
-var _MoneyProviderDiscover = _interopRequireDefault(require("./MoneyProviderDiscover.js"));
+var _UiMore = _interopRequireDefault(require("./UiMore.js"));
 
-var _MoneyProviderJcb = _interopRequireDefault(require("./MoneyProviderJcb.js"));
+var _UiPrint = _interopRequireDefault(require("./UiPrint.js"));
 
-var _MoneyProviderMastercard = _interopRequireDefault(require("./MoneyProviderMastercard.js"));
+var _UiReload = _interopRequireDefault(require("./UiReload.js"));
 
-var _MoneyProviderPaypal = _interopRequireDefault(require("./MoneyProviderPaypal.js"));
+var _UiSearch = _interopRequireDefault(require("./UiSearch.js"));
 
-var _MoneyProviderVisa = _interopRequireDefault(require("./MoneyProviderVisa.js"));
+var _UiShare = _interopRequireDefault(require("./UiShare.js"));
 
-var _MoneyReceipt = _interopRequireDefault(require("./MoneyReceipt.js"));
+var _UiStar = _interopRequireDefault(require("./UiStar.js"));
 
-var _MoneyTax = _interopRequireDefault(require("./MoneyTax.js"));
+var _UiSync = _interopRequireDefault(require("./UiSync.js"));
 
-var _Move = _interopRequireDefault(require("./Move.js"));
+var _UiTrash = _interopRequireDefault(require("./UiTrash.js"));
 
-var _MoveDragDown = _interopRequireDefault(require("./MoveDragDown.js"));
+var _UiUpload = _interopRequireDefault(require("./UiUpload.js"));
 
-var _MoveDragUp = _interopRequireDefault(require("./MoveDragUp.js"));
+var _UiVolume = _interopRequireDefault(require("./UiVolume.js"));
 
-var _MoveDragUpdown = _interopRequireDefault(require("./MoveDragUpdown.js"));
+var _UiVolumeLower = _interopRequireDefault(require("./UiVolumeLower.js"));
 
-var _Notification = _interopRequireDefault(require("./Notification.js"));
+var _UiVolumeMute = _interopRequireDefault(require("./UiVolumeMute.js"));
 
-var _Party = _interopRequireDefault(require("./Party.js"));
+var _UiX = _interopRequireDefault(require("./UiX.js"));
 
-var _Pin = _interopRequireDefault(require("./Pin.js"));
+var _UiZoomIn = _interopRequireDefault(require("./UiZoomIn.js"));
 
-var _PinRemove = _interopRequireDefault(require("./PinRemove.js"));
+var _UiZoomOut = _interopRequireDefault(require("./UiZoomOut.js"));
 
-var _Private = _interopRequireDefault(require("./Private.js"));
+var _Usb = _interopRequireDefault(require("./Usb.js"));
 
-var _Promise = _interopRequireDefault(require("./Promise.js"));
-
-var _Queue = _interopRequireDefault(require("./Queue.js"));
-
-var _QueueJoin = _interopRequireDefault(require("./QueueJoin.js"));
-
-var _Save = _interopRequireDefault(require("./Save.js"));
-
-var _School = _interopRequireDefault(require("./School.js"));
-
-var _Send = _interopRequireDefault(require("./Send.js"));
-
-var _ShieldNo = _interopRequireDefault(require("./ShieldNo.js"));
-
-var _ShieldOk = _interopRequireDefault(require("./ShieldOk.js"));
-
-var _ShieldWarn = _interopRequireDefault(require("./ShieldWarn.js"));
-
-var _Spam = _interopRequireDefault(require("./Spam.js"));
-
-var _Sport = _interopRequireDefault(require("./Sport.js"));
-
-var _Ssh = _interopRequireDefault(require("./Ssh.js"));
-
-var _StoreDrive = _interopRequireDefault(require("./StoreDrive.js"));
-
-var _StoreGdrive = _interopRequireDefault(require("./StoreGdrive.js"));
-
-var _StoreNetwork = _interopRequireDefault(require("./StoreNetwork.js"));
-
-var _StoreSd = _interopRequireDefault(require("./StoreSd.js"));
-
-var _StoreUsb = _interopRequireDefault(require("./StoreUsb.js"));
-
-var _TextAlignCenter = _interopRequireDefault(require("./TextAlignCenter.js"));
-
-var _TextAlignJustify = _interopRequireDefault(require("./TextAlignJustify.js"));
-
-var _TextAlignLeft = _interopRequireDefault(require("./TextAlignLeft.js"));
-
-var _TextAlignRight = _interopRequireDefault(require("./TextAlignRight.js"));
-
-var _TextFont = _interopRequireDefault(require("./TextFont.js"));
-
-var _TextFormatBold = _interopRequireDefault(require("./TextFormatBold.js"));
-
-var _TextFormatItalic = _interopRequireDefault(require("./TextFormatItalic.js"));
-
-var _TextFormatStrike = _interopRequireDefault(require("./TextFormatStrike.js"));
-
-var _TextFormatUnderline = _interopRequireDefault(require("./TextFormatUnderline.js"));
-
-var _TextH = _interopRequireDefault(require("./TextH1.js"));
-
-var _TextH2 = _interopRequireDefault(require("./TextH2.js"));
-
-var _TextH3 = _interopRequireDefault(require("./TextH3.js"));
-
-var _TextIndent = _interopRequireDefault(require("./TextIndent.js"));
-
-var _TextOl = _interopRequireDefault(require("./TextOl.js"));
-
-var _TextOutdent = _interopRequireDefault(require("./TextOutdent.js"));
-
-var _TextParagraph = _interopRequireDefault(require("./TextParagraph.js"));
-
-var _TextSub = _interopRequireDefault(require("./TextSub.js"));
-
-var _TextSuper = _interopRequireDefault(require("./TextSuper.js"));
-
-var _TextUl = _interopRequireDefault(require("./TextUl.js"));
-
-var _Undo = _interopRequireDefault(require("./Undo.js"));
-
-var _User = _interopRequireDefault(require("./User.js"));
-
-var _UserAdmin = _interopRequireDefault(require("./UserAdmin.js"));
-
-var _UserAnonymous = _interopRequireDefault(require("./UserAnonymous.js"));
-
-var _UserBirthday = _interopRequireDefault(require("./UserBirthday.js"));
-
-var _UserFemale = _interopRequireDefault(require("./UserFemale.js"));
-
-var _UserFemaleStaff = _interopRequireDefault(require("./UserFemaleStaff.js"));
-
-var _UserFind = _interopRequireDefault(require("./UserFind.js"));
-
-var _UserGroup = _interopRequireDefault(require("./UserGroup.js"));
-
-var _UserMale = _interopRequireDefault(require("./UserMale.js"));
-
-var _UserMaleStaff = _interopRequireDefault(require("./UserMaleStaff.js"));
-
-var _UserVerified = _interopRequireDefault(require("./UserVerified.js"));
-
-var _UserVip = _interopRequireDefault(require("./UserVip.js"));
-
-var _Vr = _interopRequireDefault(require("./Vr.js"));
-
-var _ZoomIn = _interopRequireDefault(require("./ZoomIn.js"));
-
-var _ZoomOut = _interopRequireDefault(require("./ZoomOut.js"));
+var _WifiPassword = _interopRequireDefault(require("./WifiPassword.js"));
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "default": obj }; }

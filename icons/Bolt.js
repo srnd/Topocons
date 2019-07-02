@@ -13,15 +13,10 @@ function _extends() { _extends = Object.assign || function (target) { for (var i
 
 var SvgBolt = function SvgBolt(props) {
   return _react["default"].createElement("svg", _extends({
-    viewBox: "0 0 30 30",
-    height: "1em",
-    width: "1em",
-    preserveAspectRatio: "xMinYMin",
-    style: {
-      fill: "currentColor"
-    }
+    width: 24,
+    height: 24
   }, props), _react["default"].createElement("path", {
-    d: "M17 2a1 1 0 0 0-.877.521l-7.95 12.913v.002A1 1 0 0 0 8 16a1 1 0 0 0 1 1h5.5l-1.48 9.8a1 1 0 0 0-.02.2 1 1 0 0 0 1 1 1 1 0 0 0 .883-.533h.002l7.922-12.877-.01-.018A.974.974 0 0 0 23 14a1 1 0 0 0-1-1h-5.5l1.455-9.705A1 1 0 0 0 18 3a1 1 0 0 0-1-1z"
+    d: "M8.755 14.005H4.002c-.89 0-1.337-1.078-.707-1.707l11-11c.717-.718 1.923-.035 1.677.95l-1.69 6.757h4.72c.87 0 1.325 1.034.737 1.675l-11 12c-.691.755-1.935.107-1.713-.892l1.73-7.783zm4.401-8.74l-6.74 6.74h3.586a1 1 0 0 1 .976 1.217l-1.19 5.354 6.94-7.571h-3.726a1 1 0 0 1-.97-1.243l1.124-4.497z"
   }));
 };
 

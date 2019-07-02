@@ -13,15 +13,10 @@ function _extends() { _extends = Object.assign || function (target) { for (var i
 
 var SvgEye = function SvgEye(props) {
   return _react["default"].createElement("svg", _extends({
-    viewBox: "0 0 30 30",
-    height: "1em",
-    width: "1em",
-    preserveAspectRatio: "xMinYMin",
-    style: {
-      fill: "currentColor"
-    }
+    width: 24,
+    height: 24
   }, props), _react["default"].createElement("path", {
-    d: "M15 5C6.082 5 .321 14.211.217 14.379A1 1 0 0 0 0 15a1 1 0 0 0 .162.545 1 1 0 0 0 .004.006C.183 15.586 5.019 25 15 25c9.939 0 14.767-9.321 14.826-9.436a1 1 0 0 0 .012-.02A1 1 0 0 0 30 15a1 1 0 0 0-.215-.62 1 1 0 0 0-.002-.001C29.68 14.21 23.918 5 15 5zm0 3a7 7 0 1 1 0 14 7 7 0 0 1 0-14zm0 4a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3z"
+    d: "M12 20c-3.909 0-7.403-2.337-10.463-6.883a2 2 0 0 1 0-2.234C4.597 6.337 8.09 4 12 4c3.909 0 7.403 2.337 10.463 6.883a2 2 0 0 1 0 2.234C19.403 17.663 15.91 20 12 20zm0-2c3.155 0 6.083-1.958 8.804-6-2.72-4.042-5.649-6-8.804-6-3.155 0-6.083 1.958-8.804 6 2.72 4.042 5.649 6 8.804 6zm0-2a4 4 0 1 1 0-8 4 4 0 0 1 0 8zm0-2a2 2 0 1 0 0-4 2 2 0 0 0 0 4z"
   }));
 };
 

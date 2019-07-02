@@ -13,30 +13,10 @@ function _extends() { _extends = Object.assign || function (target) { for (var i
 
 var SvgAnnouncement = function SvgAnnouncement(props) {
   return _react["default"].createElement("svg", _extends({
-    viewBox: "0 0 30 30",
-    height: "1em",
-    width: "1em",
-    preserveAspectRatio: "xMinYMin",
-    style: {
-      fill: "currentColor"
-    }
+    width: 24,
+    height: 24
   }, props), _react["default"].createElement("path", {
-    style: {
-      lineHeight: "normal",
-      textIndent: 0,
-      textAlign: "start",
-      textDecorationLine: "none",
-      textDecorationStyle: "solid",
-      textDecorationColor: "#000",
-      textTransform: "none",
-      blockProgression: "tb",
-      isolation: "auto",
-      mixBlendMode: "normal"
-    },
-    d: "M26.984 2.986A1 1 0 0 0 26 4v.404L6 12.5v5l4.674 1.89-.354.837a3.014 3.014 0 0 0 1.592 3.931 1 1 0 0 0 .002 0l2.379 1.008a3.017 3.017 0 0 0 3.934-1.594l.406-.959L26 25.596V26a1 1 0 1 0 2 0V4a1 1 0 0 0-1.016-1.014zm-24 9A1 1 0 0 0 2 13v4a1 1 0 1 0 2 0v-4a1 1 0 0 0-1.016-1.014zm9.543 8.157l4.25 1.72-.392.93a.985.985 0 0 1-1.31.531l-2.382-1.008a.985.985 0 0 1-.53-1.31l.364-.863z",
-    fontWeight: 400,
-    fontFamily: "sans-serif",
-    overflow: "visible"
+    d: "M8.447 15.579l.543 3.803A1 1 0 0 1 8 20.523H5a1 1 0 0 1-.962-.725l-1.597-5.59A4.001 4.001 0 0 1 4 6.523h1.807l8.45-3.38A2 2 0 0 1 17 5v11.046a2 2 0 0 1-2.743 1.857l-5.81-2.324zm-2.143-.857l-.497-.199H4.611l1.143 4h1.093l-.543-3.801zM7 8.2v4.646l8 3.2V5L7 8.2zm-2 .323H4a2 2 0 1 0 0 4h1v-4zm14.326-.922a1 1 0 1 1-.64-1.894l3.935-1.33a1 1 0 0 1 .64 1.894l-3.935 1.33zm0 5.776l3.935 1.33a1 1 0 0 1-.64 1.894l-3.936-1.33a1 1 0 1 1 .64-1.894zM19 9.523h4a1 1 0 0 1 0 2h-4a1 1 0 1 1 0-2z"
   }));
 };
 
