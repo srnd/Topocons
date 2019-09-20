@@ -3,6 +3,12 @@
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
+Object.defineProperty(exports, "Accessiblity", {
+  enumerable: true,
+  get: function get() {
+    return _Accessiblity["default"];
+  }
+});
 Object.defineProperty(exports, "Agreement", {
   enumerable: true,
   get: function get() {
@@ -25,6 +31,12 @@ Object.defineProperty(exports, "BehavioralTargeting", {
   enumerable: true,
   get: function get() {
     return _BehavioralTargeting["default"];
+  }
+});
+Object.defineProperty(exports, "Bell", {
+  enumerable: true,
+  get: function get() {
+    return _Bell["default"];
   }
 });
 Object.defineProperty(exports, "Bolt", {
@@ -87,16 +99,16 @@ Object.defineProperty(exports, "Certified", {
     return _Certified["default"];
   }
 });
-Object.defineProperty(exports, "Compass", {
-  enumerable: true,
-  get: function get() {
-    return _Compass["default"];
-  }
-});
 Object.defineProperty(exports, "Day", {
   enumerable: true,
   get: function get() {
     return _Day["default"];
+  }
+});
+Object.defineProperty(exports, "DeviceCamera", {
+  enumerable: true,
+  get: function get() {
+    return _DeviceCamera["default"];
   }
 });
 Object.defineProperty(exports, "DeviceConsole", {
@@ -165,6 +177,12 @@ Object.defineProperty(exports, "EcoAlt", {
     return _EcoAlt["default"];
   }
 });
+Object.defineProperty(exports, "Experiment", {
+  enumerable: true,
+  get: function get() {
+    return _Experiment["default"];
+  }
+});
 Object.defineProperty(exports, "Eye", {
   enumerable: true,
   get: function get() {
@@ -207,6 +225,60 @@ Object.defineProperty(exports, "FaceVeryHappy", {
     return _FaceVeryHappy["default"];
   }
 });
+Object.defineProperty(exports, "FileCode", {
+  enumerable: true,
+  get: function get() {
+    return _FileCode["default"];
+  }
+});
+Object.defineProperty(exports, "FileCompressed", {
+  enumerable: true,
+  get: function get() {
+    return _FileCompressed["default"];
+  }
+});
+Object.defineProperty(exports, "FileDb", {
+  enumerable: true,
+  get: function get() {
+    return _FileDb["default"];
+  }
+});
+Object.defineProperty(exports, "FileDoc", {
+  enumerable: true,
+  get: function get() {
+    return _FileDoc["default"];
+  }
+});
+Object.defineProperty(exports, "FileImage", {
+  enumerable: true,
+  get: function get() {
+    return _FileImage["default"];
+  }
+});
+Object.defineProperty(exports, "FileMusic", {
+  enumerable: true,
+  get: function get() {
+    return _FileMusic["default"];
+  }
+});
+Object.defineProperty(exports, "FilePdf", {
+  enumerable: true,
+  get: function get() {
+    return _FilePdf["default"];
+  }
+});
+Object.defineProperty(exports, "FileSlides", {
+  enumerable: true,
+  get: function get() {
+    return _FileSlides["default"];
+  }
+});
+Object.defineProperty(exports, "FileVideo", {
+  enumerable: true,
+  get: function get() {
+    return _FileVideo["default"];
+  }
+});
 Object.defineProperty(exports, "Fingerprint", {
   enumerable: true,
   get: function get() {
@@ -229,6 +301,12 @@ Object.defineProperty(exports, "FoodCaffeine", {
   enumerable: true,
   get: function get() {
     return _FoodCaffeine["default"];
+  }
+});
+Object.defineProperty(exports, "FoodCookie", {
+  enumerable: true,
+  get: function get() {
+    return _FoodCookie["default"];
   }
 });
 Object.defineProperty(exports, "FoodDairy", {
@@ -259,12 +337,6 @@ Object.defineProperty(exports, "FoodPork", {
   enumerable: true,
   get: function get() {
     return _FoodPork["default"];
-  }
-});
-Object.defineProperty(exports, "FoodSnack", {
-  enumerable: true,
-  get: function get() {
-    return _FoodSnack["default"];
   }
 });
 Object.defineProperty(exports, "FoodSoda", {
@@ -363,6 +435,12 @@ Object.defineProperty(exports, "Keyboard", {
     return _Keyboard["default"];
   }
 });
+Object.defineProperty(exports, "Language", {
+  enumerable: true,
+  get: function get() {
+    return _Language["default"];
+  }
+});
 Object.defineProperty(exports, "Lock", {
   enumerable: true,
   get: function get() {
@@ -373,6 +451,36 @@ Object.defineProperty(exports, "LockOpen", {
   enumerable: true,
   get: function get() {
     return _LockOpen["default"];
+  }
+});
+Object.defineProperty(exports, "Map", {
+  enumerable: true,
+  get: function get() {
+    return _Map["default"];
+  }
+});
+Object.defineProperty(exports, "MapCompass", {
+  enumerable: true,
+  get: function get() {
+    return _MapCompass["default"];
+  }
+});
+Object.defineProperty(exports, "MapNav", {
+  enumerable: true,
+  get: function get() {
+    return _MapNav["default"];
+  }
+});
+Object.defineProperty(exports, "MapPoi", {
+  enumerable: true,
+  get: function get() {
+    return _MapPoi["default"];
+  }
+});
+Object.defineProperty(exports, "MapPoiFlag", {
+  enumerable: true,
+  get: function get() {
+    return _MapPoiFlag["default"];
   }
 });
 Object.defineProperty(exports, "Media", {
@@ -423,6 +531,12 @@ Object.defineProperty(exports, "Music", {
     return _Music["default"];
   }
 });
+Object.defineProperty(exports, "MusicPlaylist", {
+  enumerable: true,
+  get: function get() {
+    return _MusicPlaylist["default"];
+  }
+});
 Object.defineProperty(exports, "Night", {
   enumerable: true,
   get: function get() {
@@ -471,6 +585,24 @@ Object.defineProperty(exports, "PaymentReceipt", {
     return _PaymentReceipt["default"];
   }
 });
+Object.defineProperty(exports, "PrideFist", {
+  enumerable: true,
+  get: function get() {
+    return _PrideFist["default"];
+  }
+});
+Object.defineProperty(exports, "PrideRainbow", {
+  enumerable: true,
+  get: function get() {
+    return _PrideRainbow["default"];
+  }
+});
+Object.defineProperty(exports, "Prohibited", {
+  enumerable: true,
+  get: function get() {
+    return _Prohibited["default"];
+  }
+});
 Object.defineProperty(exports, "Secure", {
   enumerable: true,
   get: function get() {
@@ -513,6 +645,12 @@ Object.defineProperty(exports, "SuperUserBadge", {
     return _SuperUserBadge["default"];
   }
 });
+Object.defineProperty(exports, "Survey", {
+  enumerable: true,
+  get: function get() {
+    return _Survey["default"];
+  }
+});
 Object.defineProperty(exports, "Temperature", {
   enumerable: true,
   get: function get() {
@@ -523,6 +661,12 @@ Object.defineProperty(exports, "Ticket", {
   enumerable: true,
   get: function get() {
     return _Ticket["default"];
+  }
+});
+Object.defineProperty(exports, "ToTheMoon", {
+  enumerable: true,
+  get: function get() {
+    return _ToTheMoon["default"];
   }
 });
 Object.defineProperty(exports, "TransportBus", {
@@ -567,6 +711,30 @@ Object.defineProperty(exports, "UiAdd", {
     return _UiAdd["default"];
   }
 });
+Object.defineProperty(exports, "UiArrowDown", {
+  enumerable: true,
+  get: function get() {
+    return _UiArrowDown["default"];
+  }
+});
+Object.defineProperty(exports, "UiArrowLeft", {
+  enumerable: true,
+  get: function get() {
+    return _UiArrowLeft["default"];
+  }
+});
+Object.defineProperty(exports, "UiArrowRight", {
+  enumerable: true,
+  get: function get() {
+    return _UiArrowRight["default"];
+  }
+});
+Object.defineProperty(exports, "UiArrowUp", {
+  enumerable: true,
+  get: function get() {
+    return _UiArrowUp["default"];
+  }
+});
 Object.defineProperty(exports, "UiBookmark", {
   enumerable: true,
   get: function get() {
@@ -589,6 +757,12 @@ Object.defineProperty(exports, "UiDownload", {
   enumerable: true,
   get: function get() {
     return _UiDownload["default"];
+  }
+});
+Object.defineProperty(exports, "UiDrag", {
+  enumerable: true,
+  get: function get() {
+    return _UiDrag["default"];
   }
 });
 Object.defineProperty(exports, "UiEdit", {
@@ -669,6 +843,12 @@ Object.defineProperty(exports, "UiSync", {
     return _UiSync["default"];
   }
 });
+Object.defineProperty(exports, "UiTag", {
+  enumerable: true,
+  get: function get() {
+    return _UiTag["default"];
+  }
+});
 Object.defineProperty(exports, "UiTrash", {
   enumerable: true,
   get: function get() {
@@ -723,12 +903,26 @@ Object.defineProperty(exports, "Usb", {
     return _Usb["default"];
   }
 });
+Object.defineProperty(exports, "Warning", {
+  enumerable: true,
+  get: function get() {
+    return _Warning["default"];
+  }
+});
+Object.defineProperty(exports, "Wifi", {
+  enumerable: true,
+  get: function get() {
+    return _Wifi["default"];
+  }
+});
 Object.defineProperty(exports, "WifiPassword", {
   enumerable: true,
   get: function get() {
     return _WifiPassword["default"];
   }
 });
+
+var _Accessiblity = _interopRequireDefault(require("./Accessiblity.js"));
 
 var _Agreement = _interopRequireDefault(require("./Agreement.js"));
 
@@ -737,6 +931,8 @@ var _Announcement = _interopRequireDefault(require("./Announcement.js"));
 var _Backpack = _interopRequireDefault(require("./Backpack.js"));
 
 var _BehavioralTargeting = _interopRequireDefault(require("./BehavioralTargeting.js"));
+
+var _Bell = _interopRequireDefault(require("./Bell.js"));
 
 var _Bolt = _interopRequireDefault(require("./Bolt.js"));
 
@@ -758,9 +954,9 @@ var _Certificate = _interopRequireDefault(require("./Certificate.js"));
 
 var _Certified = _interopRequireDefault(require("./Certified.js"));
 
-var _Compass = _interopRequireDefault(require("./Compass.js"));
-
 var _Day = _interopRequireDefault(require("./Day.js"));
+
+var _DeviceCamera = _interopRequireDefault(require("./DeviceCamera.js"));
 
 var _DeviceConsole = _interopRequireDefault(require("./DeviceConsole.js"));
 
@@ -784,6 +980,8 @@ var _Eco = _interopRequireDefault(require("./Eco.js"));
 
 var _EcoAlt = _interopRequireDefault(require("./EcoAlt.js"));
 
+var _Experiment = _interopRequireDefault(require("./Experiment.js"));
+
 var _Eye = _interopRequireDefault(require("./Eye.js"));
 
 var _FaceAngry = _interopRequireDefault(require("./FaceAngry.js"));
@@ -798,6 +996,24 @@ var _FaceSad = _interopRequireDefault(require("./FaceSad.js"));
 
 var _FaceVeryHappy = _interopRequireDefault(require("./FaceVeryHappy.js"));
 
+var _FileCode = _interopRequireDefault(require("./FileCode.js"));
+
+var _FileCompressed = _interopRequireDefault(require("./FileCompressed.js"));
+
+var _FileDb = _interopRequireDefault(require("./FileDb.js"));
+
+var _FileDoc = _interopRequireDefault(require("./FileDoc.js"));
+
+var _FileImage = _interopRequireDefault(require("./FileImage.js"));
+
+var _FileMusic = _interopRequireDefault(require("./FileMusic.js"));
+
+var _FilePdf = _interopRequireDefault(require("./FilePdf.js"));
+
+var _FileSlides = _interopRequireDefault(require("./FileSlides.js"));
+
+var _FileVideo = _interopRequireDefault(require("./FileVideo.js"));
+
 var _Fingerprint = _interopRequireDefault(require("./Fingerprint.js"));
 
 var _Food = _interopRequireDefault(require("./Food.js"));
@@ -805,6 +1021,8 @@ var _Food = _interopRequireDefault(require("./Food.js"));
 var _FoodBread = _interopRequireDefault(require("./FoodBread.js"));
 
 var _FoodCaffeine = _interopRequireDefault(require("./FoodCaffeine.js"));
+
+var _FoodCookie = _interopRequireDefault(require("./FoodCookie.js"));
 
 var _FoodDairy = _interopRequireDefault(require("./FoodDairy.js"));
 
@@ -815,8 +1033,6 @@ var _FoodFruit = _interopRequireDefault(require("./FoodFruit.js"));
 var _FoodMeat = _interopRequireDefault(require("./FoodMeat.js"));
 
 var _FoodPork = _interopRequireDefault(require("./FoodPork.js"));
-
-var _FoodSnack = _interopRequireDefault(require("./FoodSnack.js"));
 
 var _FoodSoda = _interopRequireDefault(require("./FoodSoda.js"));
 
@@ -850,9 +1066,21 @@ var _IdCard = _interopRequireDefault(require("./IdCard.js"));
 
 var _Keyboard = _interopRequireDefault(require("./Keyboard.js"));
 
+var _Language = _interopRequireDefault(require("./Language.js"));
+
 var _Lock = _interopRequireDefault(require("./Lock.js"));
 
 var _LockOpen = _interopRequireDefault(require("./LockOpen.js"));
+
+var _Map = _interopRequireDefault(require("./Map.js"));
+
+var _MapCompass = _interopRequireDefault(require("./MapCompass.js"));
+
+var _MapNav = _interopRequireDefault(require("./MapNav.js"));
+
+var _MapPoi = _interopRequireDefault(require("./MapPoi.js"));
+
+var _MapPoiFlag = _interopRequireDefault(require("./MapPoiFlag.js"));
 
 var _Media = _interopRequireDefault(require("./Media.js"));
 
@@ -870,6 +1098,8 @@ var _Mouse = _interopRequireDefault(require("./Mouse.js"));
 
 var _Music = _interopRequireDefault(require("./Music.js"));
 
+var _MusicPlaylist = _interopRequireDefault(require("./MusicPlaylist.js"));
+
 var _Night = _interopRequireDefault(require("./Night.js"));
 
 var _Password = _interopRequireDefault(require("./Password.js"));
@@ -886,6 +1116,12 @@ var _PaymentMobile = _interopRequireDefault(require("./PaymentMobile.js"));
 
 var _PaymentReceipt = _interopRequireDefault(require("./PaymentReceipt.js"));
 
+var _PrideFist = _interopRequireDefault(require("./PrideFist.js"));
+
+var _PrideRainbow = _interopRequireDefault(require("./PrideRainbow.js"));
+
+var _Prohibited = _interopRequireDefault(require("./Prohibited.js"));
+
 var _Secure = _interopRequireDefault(require("./Secure.js"));
 
 var _Shipped = _interopRequireDefault(require("./Shipped.js"));
@@ -900,9 +1136,13 @@ var _Storm = _interopRequireDefault(require("./Storm.js"));
 
 var _SuperUserBadge = _interopRequireDefault(require("./SuperUserBadge.js"));
 
+var _Survey = _interopRequireDefault(require("./Survey.js"));
+
 var _Temperature = _interopRequireDefault(require("./Temperature.js"));
 
 var _Ticket = _interopRequireDefault(require("./Ticket.js"));
+
+var _ToTheMoon = _interopRequireDefault(require("./ToTheMoon.js"));
 
 var _TransportBus = _interopRequireDefault(require("./TransportBus.js"));
 
@@ -918,6 +1158,14 @@ var _Trophy = _interopRequireDefault(require("./Trophy.js"));
 
 var _UiAdd = _interopRequireDefault(require("./UiAdd.js"));
 
+var _UiArrowDown = _interopRequireDefault(require("./UiArrowDown.js"));
+
+var _UiArrowLeft = _interopRequireDefault(require("./UiArrowLeft.js"));
+
+var _UiArrowRight = _interopRequireDefault(require("./UiArrowRight.js"));
+
+var _UiArrowUp = _interopRequireDefault(require("./UiArrowUp.js"));
+
 var _UiBookmark = _interopRequireDefault(require("./UiBookmark.js"));
 
 var _UiCheck = _interopRequireDefault(require("./UiCheck.js"));
@@ -925,6 +1173,8 @@ var _UiCheck = _interopRequireDefault(require("./UiCheck.js"));
 var _UiCog = _interopRequireDefault(require("./UiCog.js"));
 
 var _UiDownload = _interopRequireDefault(require("./UiDownload.js"));
+
+var _UiDrag = _interopRequireDefault(require("./UiDrag.js"));
 
 var _UiEdit = _interopRequireDefault(require("./UiEdit.js"));
 
@@ -952,6 +1202,8 @@ var _UiStar = _interopRequireDefault(require("./UiStar.js"));
 
 var _UiSync = _interopRequireDefault(require("./UiSync.js"));
 
+var _UiTag = _interopRequireDefault(require("./UiTag.js"));
+
 var _UiTrash = _interopRequireDefault(require("./UiTrash.js"));
 
 var _UiUpload = _interopRequireDefault(require("./UiUpload.js"));
@@ -969,6 +1221,10 @@ var _UiZoomIn = _interopRequireDefault(require("./UiZoomIn.js"));
 var _UiZoomOut = _interopRequireDefault(require("./UiZoomOut.js"));
 
 var _Usb = _interopRequireDefault(require("./Usb.js"));
+
+var _Warning = _interopRequireDefault(require("./Warning.js"));
+
+var _Wifi = _interopRequireDefault(require("./Wifi.js"));
 
 var _WifiPassword = _interopRequireDefault(require("./WifiPassword.js"));
 

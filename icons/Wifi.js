@@ -11,14 +11,14 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "d
 
 function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
 
-var SvgMusic = function SvgMusic(props) {
+var SvgWifi = function SvgWifi(props) {
   return _react["default"].createElement("svg", _extends({
     width: 24,
     height: 24
   }, props), _react["default"].createElement("path", {
-    d: "M10.43 20.316c1.307-.755 1.861-2.052 1.42-2.816-.44-.764-1.841-.932-3.148-.178-1.307.755-1.861 2.052-1.42 2.816.44.763 1.841.932 3.148.178zM12 1.97c0-1.057 1.425-1.392 1.895-.446C15.41 4.57 16.831 6 18 6a1 1 0 0 1 0 2c-1.428 0-2.746-.837-4-2.458v12.392c.07 1.536-.927 3.166-2.57 4.114-2.173 1.254-4.814.936-5.88-.91-1.066-1.846-.021-4.293 2.152-5.548 1.423-.822 3.047-.969 4.298-.454V1.971z"
+    d: "M11.9 21a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm4.923-6.975a1 1 0 1 1-1.406 1.421A4.972 4.972 0 0 0 11.9 14a4.972 4.972 0 0 0-3.518 1.446 1 1 0 0 1-1.406-1.421A6.971 6.971 0 0 1 11.9 12a6.971 6.971 0 0 1 4.923 2.025zm5.683-5.632a1 1 0 0 1-1.414 1.415A12.957 12.957 0 0 0 11.9 6C8.403 6 5.13 7.385 2.706 9.808a1 1 0 0 1-1.414-1.415A14.953 14.953 0 0 1 11.899 4a14.957 14.957 0 0 1 10.607 4.393zm-2.869 2.789a1 1 0 1 1-1.407 1.421A8.953 8.953 0 0 0 11.9 10a8.953 8.953 0 0 0-6.331 2.603 1 1 0 0 1-1.407-1.421A10.952 10.952 0 0 1 11.9 8a10.952 10.952 0 0 1 7.737 3.182z"
   }));
 };
 
-var _default = SvgMusic;
+var _default = SvgWifi;
 exports["default"] = _default;

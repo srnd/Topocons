@@ -11,14 +11,14 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "d
 
 function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
 
-var SvgMusic = function SvgMusic(props) {
+var SvgFoodCookie = function SvgFoodCookie(props) {
   return _react["default"].createElement("svg", _extends({
     width: 24,
     height: 24
   }, props), _react["default"].createElement("path", {
-    d: "M10.43 20.316c1.307-.755 1.861-2.052 1.42-2.816-.44-.764-1.841-.932-3.148-.178-1.307.755-1.861 2.052-1.42 2.816.44.763 1.841.932 3.148.178zM12 1.97c0-1.057 1.425-1.392 1.895-.446C15.41 4.57 16.831 6 18 6a1 1 0 0 1 0 2c-1.428 0-2.746-.837-4-2.458v12.392c.07 1.536-.927 3.166-2.57 4.114-2.173 1.254-4.814.936-5.88-.91-1.066-1.846-.021-4.293 2.152-5.548 1.423-.822 3.047-.969 4.298-.454V1.971z"
+    d: "M1.718 14.343A4.977 4.977 0 0 0 3 11c0-.626-.115-1.234-.335-1.804A1 1 0 0 1 3.83 7.863a5 5 0 0 0 6.108-5.65 1 1 0 0 1 .882-1.15C11.21 1.02 11.604 1 12 1c6.075 0 11 4.925 11 11s-4.925 11-11 11c-4.835 0-9.06-3.147-10.492-7.687a1 1 0 0 1 .21-.97zM12 21a9 9 0 0 0 0-18 7 7 0 0 1-7.071 7 6.974 6.974 0 0 1-1.339 5.214A9.005 9.005 0 0 0 12 21zm5-6a1 1 0 1 1 0-2 1 1 0 0 1 0 2zm-3-6a1 1 0 1 1 0-2 1 1 0 0 1 0 2zm1 9a1 1 0 1 1 0-2 1 1 0 0 1 0 2zm-2-2a1 1 0 1 1 0-2 1 1 0 0 1 0 2zm-6 1a1 1 0 1 1 0-2 1 1 0 0 1 0 2z"
   }));
 };
 
-var _default = SvgMusic;
+var _default = SvgFoodCookie;
 exports["default"] = _default;
