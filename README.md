@@ -1,6 +1,6 @@
 # Topocons
 
-These icons are only licensed for use by SRND. Sorry!
+These icons are only licensed for use by CodeDay. Sorry!
 
 ## Use
 
