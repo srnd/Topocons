@@ -5,7 +5,7 @@ These icons are only licensed for use by CodeDay. Sorry!
 ## Use
 
 ```jsx
-import Icon from `@codeday/topocons`
+import Icon from `@srnd/topocons`
 
 // Later
 <Icon.Illuminati />
@@ -14,7 +14,7 @@ import Icon from `@codeday/topocons`
 or:
 
 ```jsx
-import { Illuminati } from `@codeday/topocons/icons`
+import { Illuminati } from `@srnd/topocons/icons`
 
 // Later
 <Illuminati />
